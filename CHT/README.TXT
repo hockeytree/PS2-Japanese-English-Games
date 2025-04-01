@@ -1,0 +1,1 @@
+All cheats are either graphic improvements such as autobooting in 480p or specific to playing the game with Japanese Audio and English Text by default. These in theory should not be needed, but make the games more enjoyable.
