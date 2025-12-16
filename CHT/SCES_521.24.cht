@@ -1,0 +1,14 @@
+"KILL.SWITCH /ID SCES_521.24"
+//ELF CRC=91A65EAE
+
+Mastercode
+903a2fd8 0c0e8b9e
+
+
+//Widescreen hack by Arapapa
+//Force turn on Widescreen
+0058a454 00000001
+
+//Zoom fix
+2024d854 3c013f25 //3c013f00
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

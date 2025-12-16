@@ -1,0 +1,12 @@
+"Naruto Narutimett Hero 3 /ID SLPS_255.89"
+
+Mastercode
+90159390 0c05648c
+
+
+//ELF CRC=59739DDE
+//Widescreen Hack (NTSC-J by Arapapa)
+
+//16:9 (0000803f 0000803f 00008043)
+20b10b14 3f400000 // 3f800000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

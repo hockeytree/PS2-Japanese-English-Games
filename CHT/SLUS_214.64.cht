@@ -1,0 +1,12 @@
+"Winning Eleven - Pro Evolution Soccer 2007 /ID SLUS_214.64"
+
+Mastercode
+901086d0 0c04215c
+
+
+//ELF CRC=DE67BB91
+//Widescreen hack by No.47
+
+2039baa0 3faaaaab //3f800000 hor FOV
+2012a59c 3c053fab //3C053F80 render fix
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

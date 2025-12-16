@@ -1,0 +1,10 @@
+"Hunter X Hunter - Ryumyaku no Saidan /ID SLPM_620.67"
+//ELF CRC 821F3647
+Mastercode
+901bdab8 0c06f656
+
+//Widescreen Hack by Little Gaint
+
+00118e34 3c024408 //3c024448 zoom
+202cbdec 3f9f3b64 //3F6ED917 vert
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

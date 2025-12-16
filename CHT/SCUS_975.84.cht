@@ -1,0 +1,22 @@
+"Syphon Filter - Logan's Shadow /ID SCUS_975.84"
+
+Mastercode
+901123d0 0c04489c
+//90130b38 0c049768
+//90274028 0c09d024
+
+//480p+widescreen
+20270964 00000000
+20270548 00000000
+
+//res fix
+2027019c 240401c0
+
+//fmv's fix
+205c7978 24117100
+205c797c 24127200
+205c7980 24131e00
+205c7988 24141c00
+205c798c 24117100
+205c7994 24131e00
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

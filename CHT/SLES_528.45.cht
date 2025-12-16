@@ -1,0 +1,11 @@
+"Gadget and the Gadgetinis /ID SLES_528.45"
+//ELF CRC 2235C82F
+Mastercode
+90151c10 0c0546ac
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9
+20112858 3c033f40 //3C033F80 Zoom
+2010f478 3c023fab //3C023F80 Y-FOV
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

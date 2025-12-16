@@ -1,0 +1,10 @@
+"Midway Arcade Treasures 3 /ID SLUS_210.94"
+//ELF CRC = B843EAFB
+
+Mastercode
+90112370 0c044884
+
+
+//Widescreen Hack
+201e3e54 3c023f40 //3C023F80 (Hydro Thunder)
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

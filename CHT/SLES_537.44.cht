@@ -1,0 +1,19 @@
+"Disneys Chicken Little /ID SLES_537.44"
+//ELF CRC 5AD63F56
+Mastercode
+90446e08 0c111b2a
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9 (Memory Hack)
+205c9cfc 3fe38e32 //3FAAAAAB (Increases hor. axis)
+
+//Start menu and left status bar (ELF Hack)
+20284c00 3c014455 //3C014420
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

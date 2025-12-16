@@ -1,0 +1,14 @@
+"International Superstar Soccer /ID SLES_500.39"
+Mastercode
+90113d60 0c044f00
+
+//ELF CRC=BE388588
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+20102cac 3c013f40 //00000000
+20102cb0 44810000 //00000000
+20102cb8 4600c602 //00000000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

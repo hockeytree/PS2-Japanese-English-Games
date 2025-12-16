@@ -1,0 +1,14 @@
+"NBA Street 2 /ID SLUS_206.51"
+//ELF CRC 92AEE337
+
+Mastercode
+903bfd18 0c0efeee
+
+
+comment = Widescreen Hack by Ko81e24wy
+
+// Widescreen 16:9
+208d6aa0 3f400000
+208d6ad8 3fa66666
+208d6adc 3fa66666
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

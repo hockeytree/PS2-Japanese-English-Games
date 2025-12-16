@@ -1,0 +1,15 @@
+"K-1 World Grand Prix 2002 /ID SLPM_652.02"
+
+Mastercode
+902d5808 0c0b55aa
+
+
+//ELF CRC=670E71AC
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+2045c6b0 3f2ccccd //3f666666
+2045cee8 3f2ccccd //3f666666
+2045d4f4 3f2ccccd //3f666666
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

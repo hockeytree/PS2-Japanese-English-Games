@@ -1,0 +1,31 @@
+"Tales of Destiny 2 /ID SLPS_251.72"
+Mastercode
+901764f0 0c05d8e4
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack
+
+//battle
+201807e4 3c013f40
+201807e8 44810000
+201807f0 4600c602
+
+//3D map
+202db520 44160000
+
+//No interlacing by asasega
+//2017355c 00000000 //64420008
+//201735e4 00000000 //64420008
+
+
+//[No-Interlacing]
+//Attempts to disable interlaced offset rendering.
+
+//20170774 00000000
+//201707fc 00000000
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

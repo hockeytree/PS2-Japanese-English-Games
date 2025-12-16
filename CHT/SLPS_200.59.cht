@@ -1,0 +1,18 @@
+"Hresvelgr [International Edition] /ID SLPS_200.59"
+//ELF CRC 1D91728A
+Mastercode
+9029e3a8 0c0a7890
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+// 16:9 (00000000 00000000 43ad1346 00000000)
+2029bb6c 3c013f40 // 00000000 hor fov
+2029bb70 44810000 // 00000000
+2029bb78 4600c602 // 00000000
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

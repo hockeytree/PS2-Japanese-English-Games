@@ -1,0 +1,11 @@
+"Shining Force EXA /ID SLPM_666.46"
+
+Mastercode
+90105918 0c0415ee
+
+
+//ELF CRC=8B383FDF
+//Widescreen Hack (pnach by Arapapa)
+
+210fe8ac 3ff3cf35 // 3fb6db6e
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

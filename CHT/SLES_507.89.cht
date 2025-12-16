@@ -1,0 +1,16 @@
+"Men in Black II - Alien Escape /ID SLES_507.89"
+//ELF CRC 450D5B4F
+Mastercode
+9011a010 0c0467ac
+
+//Widescreen hack by Arapapa
+ 
+//Widescreen 16:9
+
+//X-Fov
+203aa0bc 3c02bf40 //3c02bf80
+
+//Background effect fix
+201a6ebc 3c033f2b //3c033f00
+201a6f28 3c033f2b //3c033f00
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

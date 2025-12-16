@@ -1,0 +1,13 @@
+"DNA - Dark Native Apostle /ID SLES_502.02"
+//ELF CRC 9B1EE9EB
+Mastercode
+901a5138 0c0693f6
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+2019278c 3c013f40 //00000000
+20192790 44810000 //00000000
+20192798 4600c602 //00000000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

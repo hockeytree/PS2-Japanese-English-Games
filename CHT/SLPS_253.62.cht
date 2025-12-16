@@ -1,0 +1,27 @@
+"Tetsujin 28 Go /ID SLPS_253.62"
+
+Mastercode
+9016a078 0c05a7c6
+
+
+//ELF CRC=6C4641BC
+//Widescreen hacks by Eiji (initial active X FOV hack) and Aced14 (ELF and 16:10 hacks)
+
+//16:9 Widescreen
+1013b188 00003f40 //3C023F80 - Master X FOV #1
+
+//16:10 Widescreen (Normal)
+//2013b188 08045820 //3C023F80 - j $00116080 - Jump to injected MIPS instructions
+//20116080 3c023f55 //8E190008 - lui v0, $3f55 - Set first half of v0 register (Master X FOV #1)
+//20116084 0804ec63 //8F390028 - j $0013b18c - Jump to 1 line after the overwritten MIPS instruction
+//20116088 34425555 //0320F809 - ori v0, v0, $5555 - Set second half of v0 register (Master X FOV #2)
+
+//16:10 Widescreen (Ultra)
+//1013b188 00003f40 //3C023F80 - Master X FOV #1
+//0013b190 00003f4a //3C023F61 - Master Y FOV #1
+//0013b194 0000c083 //344247AE - Master Y FOV #2
+
+//HUD
+//10130b68 00003f80 //for 16:9/16:10 Widescreen [Ultra]
+//10130b68 00003f55 //for 16:10 Widescreen [Normal]
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

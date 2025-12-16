@@ -1,0 +1,17 @@
+"Bloody Roar 4 /ID SLES_518.77"
+
+Mastercode
+902d5f20 0c0b5770		// sceSifSendCmd (recommended)
+//~9010024c 0c0bac66	// main (unreliable)
+
+/*
+ * Widescreen hack by ElHecht.
+ */
+
+Widescreen Code
+// X-Res
+2060ec20 3fa3a283
+
+// Y-Res
+//~2060ec20 40117402
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

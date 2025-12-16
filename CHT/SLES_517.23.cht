@@ -1,0 +1,18 @@
+"Hobbit, The /ID SLES_517.23"
+//ELF CRC 554A62A4
+Mastercode
+903c3918 0c0f0dee
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+202facac 3c013ec0 //3c013f00
+
+//Y-Fov
+2038b768 3c013ec0 //3c013f00
+
+//Render fix
+2038b87c 3c013f40 //3c013f00
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

@@ -1,0 +1,25 @@
+"Jak II /ID SCKA_200.10"
+//ELF CRC 25FE4D23
+Mastercode
+9011f498 0c047cce
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by ElHecht (NTSC-K by Arapapa)
+
+// 16:9
+
+//003f033c 00008344
+20367ae8 3c033f1f // 3c033f00 zoom
+
+//c1781400 01321400  (PAL c1791400)
+20826e10 0014a709 // 001478C1 force native 16:9 mode
+
+// menu fix
+20b63ee0 43a80000 // 436DE43C
+20b664b0 43440000 // 4309CAD8
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

@@ -1,0 +1,18 @@
+"Castlevania - Lament of Innocence /ID SLUS_207.33"
+// ELF CRC = 28270F7D
+Mastercode
+906f6098 0c1bd7ce
+
+
+//[Widescreen 16:9]
+//by arapapa and nemesis2000
+
+// Gameplay hack by arapapa
+20712378 3c014455 // 3c014420 - Zoom
+20712398 3c013ac0 // 3c013b00 - Y-Fov 
+
+// FMV fix by nemesis2000
+204511d0 24057300 // y-pos
+204511d4 24062000 // x width
+204511dc 24071b00 // y width
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

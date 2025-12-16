@@ -1,0 +1,17 @@
+"Da Vinci Code, The /ID SLES_540.31"
+//ELF CRC CC39A3E6
+Mastercode
+901113d8 0c04449e
+
+
+//[Widescreen 16:9]
+
+// author: PeterDelta
+//Widescreen Hack
+203ae5d8 3c023f40 //3C023F80
+
+//[50 FPS]
+// author: asasega
+//Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+//201ad428 00000001
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

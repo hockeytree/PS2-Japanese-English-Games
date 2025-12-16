@@ -1,0 +1,16 @@
+"Fireblade /ID SLES_509.95"
+//ELF CRC E54C58DD
+Mastercode
+9020f140 0c083bf8
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9
+2055a430 3f400000 //3F800000 (Increases hor. axis)
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

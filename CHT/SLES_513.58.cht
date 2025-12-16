@@ -1,0 +1,10 @@
+"Mystic Heroes /ID SLES_513.58"
+
+Mastercode
+902e6d48 0c0b9afa		// sceSifSendCmd (recommended)
+//~902f4bc4 0c0bf93d	// scePadRead
+//~902b46f4 0c0bed80	// main (unreliable)
+
+Widescreen Code
+20326ae0 3f400000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

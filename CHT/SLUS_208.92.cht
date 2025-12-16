@@ -1,0 +1,12 @@
+"Xenosaga Episode II - Jenseits von Gut und Boese (Disc 1) /ID SLUS_208.92"
+//ELF CRC = EB39ABEC
+
+Mastercode
+90122b38 0c048a76
+// 901947d0 0c0a9b54 // ALTERNATIVE MASTERCODE
+
+//Widescreen hack by nemesis2000
+//wide 
+2069b784 4182e8ba
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

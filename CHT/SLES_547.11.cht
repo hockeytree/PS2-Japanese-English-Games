@@ -1,0 +1,20 @@
+"Shadow Hearts 3: From The New World /ID SLES_547.11"
+
+Mastercode
+90387c98 0c0e1ece		 // sceSifSendCmd (recommended)
+//~90379de8 0c0e55e4 	// scePadRead
+//~9020023c 0c084608 	// main (unreliable)
+
+/* 
+ * Widescreen Hack (16:9) by ElHecht.
+ */
+
+Widescreen Code
+// 16:9
+20378d1c 3c013f40
+20378d20 44810000
+20378d28 4600c602
+
+// Render-Fix
+20208b4c 3c033fc0
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

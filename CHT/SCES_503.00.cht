@@ -1,0 +1,14 @@
+"Time Crisis 2 /ID SCES_503.00"
+
+/* Widescreen hack. Port by
+ * dieSkaarj (PAL.)
+ */
+
+Mastercode
+902b6ce4 0c0b1c98	// scePadRead
+//~901005a0 0c0b133c	// main (unreliable)
+//~902d09f8 0c0b4226	// sceSifSendCmd (recommended)
+
+Widescreen Code
+20298818 3c013f40
+0040806c 3f400000//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

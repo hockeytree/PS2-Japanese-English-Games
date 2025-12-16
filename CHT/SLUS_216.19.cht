@@ -1,0 +1,15 @@
+"Harry Potter and The Order of the Phoenix /ID SLUS_216.19"
+//ELF CRC=4C01B1B0
+
+Mastercode
+90476cd8 0c11dade
+
+//Widescreen hack by Arapapa
+
+//Force turn on Internal Widescreen
+204bf588 24020002 //30420003
+
+//Zoom fix
+//003f013c 00108144 02000146 (2nd)
+20350750 3c013f20 //3c013f00
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

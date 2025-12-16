@@ -1,0 +1,14 @@
+"Looney Toons - Back in Action /ID SLES_517.94"
+//ELF CRC 26F6F521
+
+
+Mastercode
+902baa90 0c0aea4c
+
+//[Widescreen 16:9]
+// author: CRASHARKI
+//Patches the game to run at 16:9 Widescreen Aspect Ratio.
+202d1fbc 4019999a //Viewport Width (Main Menu)
+e0010001 003673f0
+202d1fbc 3fe66666 //4019999A Viewport Width
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

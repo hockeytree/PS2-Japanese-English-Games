@@ -1,0 +1,16 @@
+"Magna Carta /ID SCKA_200.43"
+//ELF CRC AE86E04C
+Mastercode
+901089b8 0c042216
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by ElHecht (NTSC-K by Arapapa)
+
+//16:9 (b002a427 00608044 803f023c 00688244 00000000 86630046 30c2050c)
+202bdae8 3c023f40 //3c023f80
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

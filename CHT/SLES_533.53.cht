@@ -1,0 +1,16 @@
+"Shaman King - Power of Spirit /ID SLES_533.53"
+//ELF CRC 12D57B4F
+Mastercode
+902867b0 0c0a1994
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9
+201dcfd4 3c023fab //3C023F80 (Increases hor. axis)
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

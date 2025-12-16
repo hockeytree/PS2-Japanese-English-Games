@@ -1,0 +1,25 @@
+﻿"Disney's Chicken Little /ID SLUS_210.88"
+Mastercode
+90446788 0c11198a
+
+//Widescreen hack 16:9
+
+20310ee0 3c013fc0
+20310ef4 00000000
+20310eec 08030000
+200c0000 3c173f40
+200c0004 4497f000
+200c0008 461e6343
+200c000c 44817000
+200c0010 080c43bc
+
+///////////////////////////////////////////////////
+//Gameplay
+//abaaaa3f 00000000 00504347 01000000 (Memory Hack)
+//205c5cfc 3fe38e32 //3faaaaab fov
+
+//Start Menu and Left Status Bar (ELF Hack)
+//2044013c 00608144 f043013c 00688144 
+//20284638 3c014455 //3c014420
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

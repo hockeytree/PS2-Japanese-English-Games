@@ -1,0 +1,12 @@
+"Flushed Away /ID SLES_545.27"
+//ELF CRC 4CB5D96E
+Mastercode
+902a8560 0c0aa100
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9
+2027cd34 3c013cad //3C013C8E Zoom
+201c8334 3c013c6e //3C013C8E Y-FOV
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

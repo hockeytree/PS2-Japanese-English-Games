@@ -1,0 +1,15 @@
+"Time Crisis II /ID SCKA_200.02"
+//ELF CRC FE12B657
+Mastercode
+902c8678 0c0b2146
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack (pnach by Arapapa)
+
+203cd7fc 3f400000 //3f800000
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

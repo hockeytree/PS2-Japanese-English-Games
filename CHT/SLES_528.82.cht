@@ -1,0 +1,14 @@
+"Stolen /ID SLES_528.82"
+
+Mastercode
+//~903b41d8 0c0ed01e	// sceSifSendCmd (recommended)
+903c33d4 0c0ea28f	// scePadRead
+//~9022b39c 0c0edee6	// main (unreliable)
+
+/*
+ * Comment: Widescreen hack by dieSkaarj
+ */
+
+Widescreen Code
+20aeadf0 3f400000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

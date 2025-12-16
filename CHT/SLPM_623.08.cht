@@ -1,0 +1,20 @@
+"Simple 2000 Series Vol.24 - The Bowling /ID SLPM_623.08"
+//ELF CRC 0B34D12E
+Mastercode
+9018b8d8 0c062dde
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Matrix hack
+2015c38c 3c013f40 //00000000
+2015c390 44810000 //00000000
+2015c398 4600c602 //00000000
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

@@ -1,0 +1,13 @@
+"Final Fantasy XII /ID SLUS_209.63"
+//ELF CRC 0779FBDB
+
+Mastercode
+904497a0 0c112590
+
+//Widescreen hack by nemesis2000 (pnach by nemesis2000)
+//widescreen fix
+
+20180388 3c013f80
+2018038c 34210000
+2033d55c 3c020000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

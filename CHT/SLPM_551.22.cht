@@ -1,0 +1,22 @@
+"Gundam Musou 2 /ID SLPM_551.22"
+
+Mastercode
+90112f58 0c044b7e
+
+
+//ELF CRC=A6F06ED5
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+2017b7fc 08043d88
+
+2010f620 46041902
+2010f624 3c013f40
+2010f628 4481f000
+2010f62c 461e2102
+2010f630 0805ee00
+
+//204df838 3f2aaaab // 3F4CCCCD
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

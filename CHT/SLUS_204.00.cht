@@ -1,0 +1,12 @@
+"Mission Impossible - Operation Surma /ID SLUS_204.00"
+
+Mastercode
+9048a2e0 0c122860
+
+
+//ELF CRC=B82A0B91
+//Widescreen patch by Arapapa
+
+// 16:9 (0000803f 00000000 00000000 00000000 00000080)
+20657e60 3f400000 // 3F800000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

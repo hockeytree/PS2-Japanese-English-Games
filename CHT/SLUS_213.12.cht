@@ -1,0 +1,15 @@
+"Wallace & Gromit - The Curse of the Were-Rabbit /ID SLUS_213.12"
+//ELF CRC 073EEDC0
+
+Mastercode
+904f4390 0c13d08c
+
+
+//Widescreen hack by Arapapa, 16:9
+
+//Zoom
+2011a4f4 3c013f1d //3c013f00
+
+//Y-Fov
+2011a598 3c014080 //3c014040
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

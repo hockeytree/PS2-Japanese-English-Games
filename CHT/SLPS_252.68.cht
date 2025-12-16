@@ -1,0 +1,34 @@
+"Dead to Rights /ID SLPS_252.68"
+//ELF CRC 916B1D2E
+Mastercode
+9023f4e0 0c08fce0
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Force turn on Widescreen
+//00 00 00 00 01 00 00 00 AB AA AA 3F 00 00 80 3F
+00453e80 00000001
+
+//Zoom fix
+//29 5C 8F 3F 00 00 C0 43 00 00 C0 43
+20453e94 3f800000 //3f8f5c29
+
+
+//[No-Interlacing]
+//No Interlacing
+
+//480p
+//0026ebc8 00000002
+//0026ebd0 00001038
+
+//No interlaced FMVs
+//0021ec5c 00000000
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

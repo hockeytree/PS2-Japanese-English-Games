@@ -1,0 +1,15 @@
+"Outlaw Golf 2 /ID SLES_529.65"
+//ELF CRC=57115262
+
+Mastercode
+901980d0 0c065fdc
+
+
+//Widescreen hack by sergx12
+//Ported to PAL (ElHecht)
+// 16:9
+20681448 3f9c71cb // 3f6aaaab hor fov
+
+// 16:10
+//20681448 3f8ccccd // 3f6aaaab hor fov
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

@@ -1,0 +1,14 @@
+﻿"Gradius V /ID SLUS_207.12"
+Mastercode
+90103570 0c040d04
+//9016cd18 0c05b33c
+
+//X-Fov
+201d9228 3c033f72
+
+//Render fix
+202e0638 3c033fb0
+202e0948 3c033fb0
+202e1038 3c033fb0
+202e1178 3c033fb0
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

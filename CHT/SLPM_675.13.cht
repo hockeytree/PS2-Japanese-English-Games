@@ -1,0 +1,33 @@
+"Final Fantasy X International (Korea) /ID SLPM_675.13"
+//ELF CRC=3866CA7E
+
+Mastercode
+902e013c 0c0bc375
+
+//Always In English Mode
+//0031f05e 00000001
+
+// widescreen hacks by 99skull
+
+//Widescreen Hack (16:9)
+//20316180 3f19999a // 3F4CCCCD
+201a59b4 3c013f19 // 3C013F4C wide value1
+201a59b8 3421999a // 3421CCCD wide value2
+2011973c 3c014440 // render fix1
+20176194 3c01442b // render fix2
+
+//Widescreen Hack (16:10)
+//20316180 3f19999a // 3F4CCCCD
+//201a59b4 3c013f2a // 3C013F4C wide value1
+//201a59b8 3421aaab // 3421CCCD wide value2
+//2011973c 3c014440 // render fix1
+//20176194 3c01442b // render fix2
+
+//world map
+//803f013c 00008144 01001124
+202631b8 3c013f40 //3c013f80
+
+//sphere grid
+//803f013c 00a08144 e601023c
+20264b14 3c013f40 //3c013f80
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

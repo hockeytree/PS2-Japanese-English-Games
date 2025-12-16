@@ -1,0 +1,15 @@
+"Neo Contra /ID SLPM_657.52"
+//ELF CRC A70549D6
+Mastercode
+9036f4d8 0c0dbcde
+//[Widescreen 16:9]
+
+
+//Widescreen hack
+20359ed4 3c013f40
+20359ed8 44810000
+20359ee0 4600c602
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

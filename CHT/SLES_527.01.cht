@@ -1,0 +1,10 @@
+"Future Tactics - The Uprising /ID SLES_527.01"
+//ELF CRC 5E4C44CF
+Mastercode
+9026a898 0c09a9ce
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9
+2013c2dc 3c013fe3 //3C013FAA (Increases hor. axis)
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

@@ -1,0 +1,19 @@
+"Disneys PK - Out of the Shadows /ID SLUS_204.78"
+//ELF CRC 8938E1F5
+Mastercode
+9010f2d8 0c043c5e
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//000080bf 0000803f 000080bf 00000000
+203324b0 bf400000 //3f800000
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

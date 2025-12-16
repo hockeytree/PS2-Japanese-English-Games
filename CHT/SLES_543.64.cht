@@ -1,0 +1,11 @@
+"Curious George /ID SLES_543.64"
+//ELF CRC 5415FA68
+Mastercode
+902915f0 0c0a4524
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9
+20199214 3c013cad //3C013C8E Zoom
+201b2114 3c013c6e //3C013C8E Y-FOV
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

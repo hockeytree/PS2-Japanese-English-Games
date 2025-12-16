@@ -1,0 +1,9 @@
+"Monster Hunter /ID SLPM_654.95"
+//ELF CRC=CF1A62C0
+
+Mastercode
+901b7f70 0c0676dc
+
+//Widescreen hack by nemesis2000 (NTSC-J by Arapapa)
+20169d24 3c023ff3 //3c023fb6
+20169d2c 3442cf35 //3442db6e //More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

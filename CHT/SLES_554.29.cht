@@ -1,0 +1,10 @@
+"Disney Bolt /ID SLES_554.29"
+//ELF CRC 841CF939
+Mastercode
+905cb200 0c172c28
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9
+2068c3ec 3fe38e39 //3FAAAAAB (Increases hor. axis)
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

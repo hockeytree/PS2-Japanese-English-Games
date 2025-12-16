@@ -1,0 +1,10 @@
+"Mortal Kombat - Armageddon /ID SLES_541.56"
+//ELF CRC 433A82D4
+
+Mastercode
+9010fcd8 0c043ede
+
+//Mortal Kombat - Armageddon (PAL-M5) Widescreen Hack (16:9) by ElHecht
+21eb1ed0 3f842256 // 3FB02DC8 X-Axis
+//21eb1ed4 3ffbaf1e // 3FFBAF1E Y-Axis
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

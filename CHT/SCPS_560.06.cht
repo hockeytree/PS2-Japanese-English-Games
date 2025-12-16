@@ -1,0 +1,21 @@
+"Tekken 4 /ID SCPS_560.06"
+//ELF CRC 35B4028B
+Mastercode
+90280668 0c0a0142
+
+
+//[Widescreen 16:9]
+
+//16:9 widescreen hack
+
+//16:9 widescreen hack by nemesis2000, porting by 99skull
+20216c60 3c013f40 //gameplay
+201f69c0 3c013f40 //partial hud fix
+2018d408 3c0143d5 //rfix 1
+20200b44 3c013f40 //rfix 2
+20200b48 44810000 //rfix 2
+20200b54 46006303 //rfix 2
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

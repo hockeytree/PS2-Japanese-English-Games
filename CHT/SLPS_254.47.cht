@@ -1,0 +1,16 @@
+"Aim for the Top! Gunbuster /ID SLPS_254.47"
+//ELF CRC 603F5B4E
+Mastercode
+90221900 0c0885e8
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+// 16:9 (0000803f 6666e63e 6666E63F)
+202cfaa0 3f400000 // 3F800000
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

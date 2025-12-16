@@ -1,0 +1,23 @@
+"The Lord of the Rings - The Third Age /ID SLKA_252.37"
+//ELF CRC 37CD4279
+Mastercode
+9032b330 0c0cac74
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack (NTSC-K by Arapapa)
+
+
+//0000803f 5555953f 0000803F
+20c40380 3f400000
+
+//0000803f b76d5b3f 0000803F
+20c40390 3fb00000
+
+//0000803f b76d5b3f 0000803F
+20c40398 3fb00000
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

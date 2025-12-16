@@ -1,0 +1,11 @@
+"Whiplash /ID SLES_519.58"
+//ELF CRC E8A97250
+Mastercode
+90367978 0c0d9e06
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9 
+202c3b40 3c013fe3 //3C013FAA (Increases hor. axis)
+202c3b44 34219fa5 //34219FBE
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

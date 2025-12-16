@@ -1,0 +1,15 @@
+"Spartan - Total Warrior /ID SLPM_664.44"
+//ELF CRC 26689C87
+Mastercode
+9021ed10 0c087aec
+
+
+//[Widescreen 16:9]
+
+//Widescreen patch (pnach NTSC-J by Arapapa)
+
+2057e994 3f100000 // 3F400000
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

@@ -1,0 +1,17 @@
+"TT Superbikes /ID SLES_519.80"
+//ELF CRC B42446DC
+Mastercode
+901be0d8 0c06f7de
+
+//Widescreen hack by El_Patas
+
+// Gameplay 16:9
+205f9b58 3f400000 //3F800000 (Increases hor. axis)
+
+// Render Fix
+20159440 3c013f40 //3C013F00
+20159e94 3c013f40 //3C013F00
+
+20159404 3c013f40 //3C013F80
+20159450 3c013f40 //3C013F80
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

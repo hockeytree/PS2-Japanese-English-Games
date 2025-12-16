@@ -1,0 +1,19 @@
+"NBA Hoopz /ID SLES_500.80"
+//ELF CRC AFBA3846
+Mastercode
+901d4760 0c075180
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//82080146 803f013c
+2013cf00 08030000
+
+200c0000 46010882
+200c0004 3c013f00
+200c0008 4481f000
+200c000c 461e1082
+200c0010 0804f3c1
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

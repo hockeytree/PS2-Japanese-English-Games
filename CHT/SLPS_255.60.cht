@@ -1,0 +1,45 @@
+"DragonBall Z - Sparking! /ID SLPS_255.60"
+//ELF CRC E7D5481C
+Mastercode
+901ae958 0c06b9fe
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by sergx12/ElHecht (NTSC-J by Arapapa)
+
+// 16:9 menu
+201f94c4 3f600000 // 3f490fda sky/background fix
+
+//803f013c 00208144 1000a527
+2011e2d8 3c013f40 // 3c013f80
+2011e308 3c01442b // 3c014400
+
+//803f013c 00008144 86230046
+2011e398 3c013f40 // 3c013f80
+2011e3b0 3c01442b // 3c014400
+
+2011e400 3c013f40 // 3c013f80
+2011e414 3c01442b // 3c014400
+
+//803f013c 00088144 0045013c
+2010f500 3c013f40 // 3c013f80
+2010f528 3c01442b // 3c014400
+
+
+// 16:9 gameplay
+e0083f80 00229fdc // check 20229FDC matches value xxxx3f80
+
+//3c013f80 00088144 70b16324
+20229fdc 3c013f40 // 3c013f80
+2022a010 3c01442b // 3c014400
+2022a944 3c013f40 // 3c013f80
+2022a98c 3c01442b // 3c014400
+2022aa80 3c013f40 // 3c013f80
+2022aa98 3c01442b // 3c014400
+2022aaf8 3c013f40 // 3c013f80
+2022ab0c 3c01442b // 3c014400
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

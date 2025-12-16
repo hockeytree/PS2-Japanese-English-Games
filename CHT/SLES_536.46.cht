@@ -1,0 +1,15 @@
+﻿"World Racing 2 /ID SLES_536.46"
+Mastercode
+902caf68 0c0b2b82
+
+//Widescreen hack 16:9
+
+//Martix hack
+20297454 3c013f40
+20297458 44810000
+20297460 4600c602
+
+//Render fix
+2028bc14 3c013f2b
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

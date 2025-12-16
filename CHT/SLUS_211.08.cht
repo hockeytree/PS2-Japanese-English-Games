@@ -1,0 +1,19 @@
+﻿"Hitman - Blood Money /ID SLUS_211.08"
+Mastercode
+9041a308 00832021
+
+//wide
+20178b58 3c013f40
+20178b5c 4481f000
+20178b98 461e0003
+20291610 461ea502
+202b27f4 461ea302
+
+//Enabling either one of the following options seem to cause the random crashes reported on issue #14
+//force progressive
+//01417aa0 00000002
+
+//force interlaced
+//01417aa0 00000001
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

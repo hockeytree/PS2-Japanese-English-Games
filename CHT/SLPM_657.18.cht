@@ -1,0 +1,24 @@
+"Sengoku Musou Moushouden /ID SLPM_657.18"
+//ELF CRC DBD2230B
+Mastercode
+90113e50 0c044f3c
+//[Widescreen 16:9]
+
+
+//Widescreen Hack by ElHecht (Pnach by Little Giant)
+
+// 16:9
+20141008 3c024328 // 3c024360 zoom
+201411f8 3c013f40 // 8f838720 ver fov
+201411fc 4481f000 // 03e00008
+20141200 461e6b43 // e46d02bc
+20141204 03e00008 // 00000000
+20141208 e46d02bc // 00000000
+
+
+//[No-Interlacing]
+//2013ef38 af808708
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

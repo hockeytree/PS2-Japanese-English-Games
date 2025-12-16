@@ -1,0 +1,11 @@
+"Kelly Slaters Pro Surfer /ID SLES_512.00"
+//ELF CRC 0C19A18B
+Mastercode
+903de0f0 0c0f77e4
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9
+2029fb58 3c01435f //3C014334 Zoom
+204acba4 3fe38e39 //3FAAAAAB Y-FOV
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

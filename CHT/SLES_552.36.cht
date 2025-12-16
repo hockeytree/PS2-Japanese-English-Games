@@ -1,0 +1,16 @@
+"DreamWorks Kung Fu Panda /ID SLES_552.36"
+//ELF CRC EEFA39E1
+Mastercode
+9056c6c8 0c15b15a
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9
+2069520c 3fe38e38 //3FAAAAAB (Increases hor. axis)
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

@@ -1,0 +1,67 @@
+"Silent Hill 2 - Directors Cut /ID SLES_511.56"
+//ELF CRC=6BBD4932
+
+Mastercode
+902ac180 0c0ab008
+
+
+//Widescreen hack by nemesis2000 (pnach by nemesis2000 )
+202d7530 3f28f5c3 //hor asp
+20189d84 3c034455 // partial render fix
+
+//FMV's fix
+20281118 24100004 //hor black border 
+2028111c 24030004 //hor black border
+202810fc 340692b0 //bottom
+//20281104 34c68c80 //right
+202810cc 3c026d50 //top
+//202810d0 34467380 //left
+
+//Lens Flare's fix
+2018b6e0 3c024010
+
+2018b75c 3c0243a8
+
+2018c3b4 3c024010
+
+2018c44c 3c0243a8
+2018c4c8 3c0243a8
+2018ca94 3c0243a8
+2018cb28 3c0243a8
+2018cbac 3c0243a8
+2018cc50 3c0243a8
+2018cfe4 3c0243a8
+2018d078 3c0243a8
+2018d10c 3c0243a8
+2018d1a0 3c0243a8
+2018d394 3c0243a8
+2018d400 3c0243a8
+2018d54c 3c0243a8
+2018d5b8 3c0243a8
+
+//Loading scene (Foot Print)
+//403f023c 00088244 c000a0c7
+20291734 3c023f10 //3c023f40
+
+//Item & Equipment Y-Fov
+//8042023c 00008244 00000000 02001446
+201eac40 3c0242aa //3c024280
+201eac44 3442aaab //44820000
+201eac48 44820000 //00000000
+
+201eafa0 3c0242aa //3c024280
+201eafa4 3442aaab //44820000
+201eafa8 44820000 //00000000
+
+//Item Zoom
+//993e033c 9a996334 00008344
+201db4dc 3c033daa //3c033e99
+201db4e0 3463aaab //3463999a
+201db4dc 3c033daa //3c033e99
+201db4e0 3463aaab //3463999a
+
+//Equipment Zoom
+//663f023c 66664234 00088244
+201db998 3c023f2c //3c023f66
+201db99c 3442cccd //34426666
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

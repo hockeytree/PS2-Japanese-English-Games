@@ -1,0 +1,16 @@
+"Madagascar /ID SLES_532.42"
+//ELF CRC D3051E54
+Mastercode
+902fbc60 0c0beec0
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack
+//Ported to PAL by Nik1895
+207d1088 3f199999 // 3F9DA591 chaos control fov
+20847e98 3faaaaaa // 3F800000 main fov
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

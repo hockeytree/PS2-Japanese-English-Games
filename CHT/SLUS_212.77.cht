@@ -1,0 +1,22 @@
+"Barnyard /ID SLUS_212.77"
+
+Mastercode
+90446c00 0c111aa8
+
+
+//ELF CRC=EC8EF2DE
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Y-Fov
+20540d60 3f9f4877 //3f6eecc0
+
+//Zoom (Select Menu and Game Play)
+//2053e804 3fa80000 //3f860a93
+2053d748 3fd50000 //3eaaaaab
+
+//Black Bar Fix (Event Scene Top and Bottom)  // TLB miss
+//21a1df04 00000000 //42300000
+//21a1df7c 00000000 //42300000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

@@ -1,0 +1,20 @@
+﻿"Manhunt /ID SLUS_208.27"
+Mastercode
+90130b14 0c04999e
+//90251448 0c04d13c
+//903506f8 0c0d4166
+
+//Widescreen hack 16:9
+205e0664 00000000
+20548ec8 3f6eeeee
+20548ecc 3f0c0000
+
+//////////////////////////////////////
+//X-Fov  (Needs Render fix)
+//20422ba8 080d3724
+//2034dc90 46010043
+//2034dc94 3c013f40
+//2034dc98 4481f000
+//2034dc9c 461e0842
+//2034dca0 08108aeb
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

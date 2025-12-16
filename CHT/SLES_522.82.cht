@@ -1,0 +1,18 @@
+"Mafia /ID SLES_522.82"
+//ELF CRC 7E9B5698
+
+Mastercode
+90407478 0c101cc6
+
+
+//Widescreen Hack by El_Patas, Render fixes by arapapa
+//Gameplay 16:9
+20ffb6b4 3fab0000 //3F800000 Vertical axis
+20ffb79c 3fab0000 //3F800000 Horizontal axis
+
+//Render fix
+20ffb704 3d000000 //3D4CCCCD
+
+//Rendering distancce
+20ffb708 44000000 //43660000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

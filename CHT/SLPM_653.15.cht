@@ -1,0 +1,14 @@
+"Hanjuku Hero VS 3D /ID SLPM_653.15"
+
+Mastercode
+90283cb8 0c0a0ed6
+
+
+//ELF CRC=08C2754F
+//Widescreen hack by Arapapa
+
+//Gameplay 16:9
+
+2014e70c 3c014455 //3c014420
+2014e8cc 3c014455 //3c014420
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

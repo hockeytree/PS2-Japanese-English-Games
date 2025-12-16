@@ -1,0 +1,11 @@
+"Smugglers Run /ID SLES_500.61"
+//ELF CRC 95416482
+Mastercode
+9027fb78 0c09fe84
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9 
+2023548c 3c013fcc //3C013F99
+20235490 342199cd //3421999A
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

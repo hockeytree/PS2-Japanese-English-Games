@@ -1,0 +1,10 @@
+"Pac-Man World 2 /ID SLUS_202.24"
+//ELF CRC E7EA3288
+
+Mastercode
+902dcc20 0c0b72b0
+
+
+//Official Widescreen auto-enable (vertical screen skewed)
+205a68c0 00000001 // change value to 0 for 4:3
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

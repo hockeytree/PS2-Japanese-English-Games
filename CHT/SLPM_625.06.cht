@@ -1,0 +1,32 @@
+"Vampire Panic /ID SLPM_625.06"
+//ELF CRC 14DDB291
+Mastercode
+90111810 0c0445ac
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+201ac344 0809b8c0 // e61a0264
+
+2026e304 3c013f40  // 00000000
+2026e308 4481f000  // 00000000
+2026e30c 461ed682  // 00000000
+2026e310 e61a0264  // 00000000
+2026e314 0806b0d2  // 00000000
+
+
+//[No-Interlacing]
+//Attempts to disable interlaced offset rendering.
+//No interlacing
+//201e1ab0 30420000
+//20101f5c 00000000 //64420008
+//Remove Broken Effect
+//203fc3e4 00400000
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

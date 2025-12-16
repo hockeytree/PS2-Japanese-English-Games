@@ -1,0 +1,15 @@
+"TimeSplitters /ID SLES_500.78"
+
+Mastercode
+902d2678 0c0b4944		// sceSifSendCmd (recommended)
+//~902d51f8 0c0b95f6	// scePadRead
+//~902013f0 0c0b85ac	// main
+
+/*
+ * Widescreen hack by nemesis2000.
+ */
+
+Widescreen Code
+2027e754 3c014340
+2027e758 44810000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

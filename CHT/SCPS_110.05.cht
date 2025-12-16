@@ -1,0 +1,11 @@
+"Sagashi ni Ikouyo - Go to Find It! /ID SCPS_110.05"
+//ELF CRC 17006BD9
+Mastercode
+90188618 0c06212c
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+201b2494 3faaaaab //3F800000 Y-ratio
+201b24a8 3faaaaab //3F800000 Zoom
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

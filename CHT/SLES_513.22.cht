@@ -1,0 +1,12 @@
+"Robotech Battlecry /ID SLES_513.22"
+//ELF CRC 3373407D
+
+Mastercode
+902abbf8 0c0aaea6
+
+
+//Widescreen hack by Arapapa
+
+//X-Fov
+20122d5c 3c013f40 //3c013f80
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

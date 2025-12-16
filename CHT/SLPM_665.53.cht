@@ -1,0 +1,11 @@
+"Chaos Wars /ID SLPM_665.53"
+//ELF CRC 87A2714B
+Mastercode
+9010fe30 0c043f34
+
+//Widescreen Hack (pnach by Arapapa)
+
+20137494 3c033f19 // 4c3f033c
+20137498 3463999a // cdcc6334
+201374b4 3c0343f7 // b943033c
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

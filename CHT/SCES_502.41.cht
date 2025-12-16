@@ -1,0 +1,13 @@
+"Bouncer, The /ID SCES_502.41"
+//ELF CRC E553C15B
+
+Mastercode
+902f8b58 0c0be27e
+
+//Widescreen Hack (16:9) by ElHecht
+
+//16:9
+2037ec3c 3f400000 // 3F800000 hor fov
+//2037ec40 3f069536 // 3F069536 ver fov
+//203a4788 3f800000 // 3F800000 zoom
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

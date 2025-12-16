@@ -1,0 +1,21 @@
+"Rumble Roses S/ID SLES_525.35"
+
+Mastercode
+901007cc 0c049b3c		// sceSifSendCmd (recommended)
+//~90121ef8 0c049e30	// scePadRead
+//~901007cc 0c049b3c	// main (unreliable)
+
+/*
+ * Widescreen hack by ElHecht. Font fix by Arapapa.
+ */
+
+Widescreen Code
+// 16:9
+20104084 3c013f40
+20104088 44810000
+20104090 4600c602
+
+// Font fix
+2030a55c 3c033f53
+2030a560 34633333
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

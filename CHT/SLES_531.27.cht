@@ -1,0 +1,11 @@
+"Teenage Mutant Ninja Turtles - Mutant Melee /ID SLES_531.27"
+//ELF CRC 33E15E16
+Mastercode
+9033db38 0c0cf676
+
+//Widescreen Hack (16:9) by ElHecht
+//
+// 16:9
+2016c938 3c013fe3 // 3c013faa hor fov
+2016c93c 34218e38 // 3421aaab hor fov
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

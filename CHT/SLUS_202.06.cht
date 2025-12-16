@@ -1,0 +1,16 @@
+﻿"Army Men - RTS /ID SLUS_202.06"
+Mastercode
+901ed730 0c07b574
+//9019905c 0c04d0e3
+
+//wide
+201a33c4 3c013fab
+201a3404 3c013f05
+
+//Game Play
+201a2ecc 3c013fab
+201a3304 3c013f05
+
+//Odd Zoom (able to avoid "render fix")
+2020cb1c 3c013fb0
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

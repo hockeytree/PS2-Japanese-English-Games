@@ -1,0 +1,16 @@
+"Monster Farm 5 /ID SLPS_255.85"
+//ELF CRC CC1E5592
+Mastercode
+9031a418 0c0c68ae
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Little Gaint
+
+204efeec 3f19999a //3F4CCCCD hor
+20590d94 43e00000 //43A00000 render fix
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

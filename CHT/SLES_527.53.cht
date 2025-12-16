@@ -1,0 +1,12 @@
+"FlatOut /ID SLES_527.53"
+//ELF CRC E98B1B2A
+
+Mastercode
+9026b8b8 0c09add6
+
+//Widescreen hack by El_Patas
+//Gameplay 16:9
+2019e924 3c013fab //3C013F80 Y-FOV
+20180cc0 3c013fab //3C013F80
+202b2f74 3ee90000 //3F000000 Zoom
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

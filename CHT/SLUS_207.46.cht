@@ -1,0 +1,10 @@
+"Rogue Ops /ID SLUS_207.46"
+
+Mastercode
+9036fa58 0c0dbe3e
+
+
+//ELF CRC=FCEA8119
+//Widescreen Hack
+20665f80 3f400000 // 3F800000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

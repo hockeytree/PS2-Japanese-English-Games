@@ -1,0 +1,20 @@
+"Hard Hitter 2 /ID SLES_510.57"
+//ELF CRC B8B74173
+Mastercode
+902d37b0 0c0b4d94
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+
+//X-Fov
+//02210846 0000a4e7 040063c4 (1st)
+2026fac4 08030000
+
+200c0000 46082102
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461e2102
+200c0010 0809beb2
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

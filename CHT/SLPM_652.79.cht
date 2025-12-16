@@ -1,0 +1,15 @@
+"Generation of Chaos III - Toki no Fuuin [Limited Edition] /ID SLPM_652.79"
+//Also works on SLPM_652.78
+//ELF CRC=B9DE6298
+
+Mastercode
+9010e078 0c0437c6
+
+//Widescreen Hack by Arapapa
+
+//Zoom
+20103078 3c013fab  //3c013f80
+
+//Y-Fov
+201364e4 3c023fc0 //3c024000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

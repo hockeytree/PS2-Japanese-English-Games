@@ -1,0 +1,12 @@
+"Fruitfall /ID SLES_531.48"
+//ELF CRC 1601F9D1
+Mastercode
+9027c288 0c09f04a
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+20300954 3faaaaab //3f800000
+20300958 3faaaaab //3f800000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

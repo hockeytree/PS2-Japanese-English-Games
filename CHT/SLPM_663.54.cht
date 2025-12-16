@@ -1,0 +1,22 @@
+"Black /ID SLPM_663.54"
+//ELF CRC B3A9F9ED
+Mastercode
+9036a848 0c0da9ba
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by No.47 (pnach by Arapapa)
+
+203bf03c 00000001 //00000000
+204bc950 00000001 //00000000
+204bd98c 00000001 //00000000
+204cad54 3fe38e39 //3FAAAAAB
+204cadf0 3faaaaab //3F800000
+204cadf4 3fe38e39 //3FAAAAAB
+204cae94 3fe38e39 //3FAAAAAB
+205bc390 3f400000 //3F800000
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

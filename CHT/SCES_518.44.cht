@@ -1,0 +1,8 @@
+"Time Crisis 3 /ID SCES_518.44"
+//comment=Widescreen hack by dieSkaarj.
+
+Mastercode
+90264c18 0c0992ae
+
+201d544c 3c033f40
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

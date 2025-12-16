@@ -1,0 +1,13 @@
+"MegaMan X8 /ID SLES_529.88"
+//ELF CRC AA3F4F82
+
+Mastercode
+9011d8d0 0c0475dc
+
+
+//Widescreen hack by nemesis2000 (pnach by nemesis2000)
+
+2010f10c 3c013f40 //hor value
+2010f110 44810000
+2010f118 4600c602
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

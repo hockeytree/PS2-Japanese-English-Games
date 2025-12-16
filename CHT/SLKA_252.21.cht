@@ -1,0 +1,16 @@
+"Busin 0 - Wizardry Alternative Neo /ID SLKA_252.21"
+//ELF CRC 56075A21
+Mastercode
+9046c398 0c11b08e
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+// 16:9 (6d34003d cccc8c3f(*) cccc8c3f cccc8c3f cccc8c3f)
+2050f274 3f533333 // 3f8ccccc
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

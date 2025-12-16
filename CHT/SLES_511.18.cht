@@ -1,0 +1,10 @@
+"Wizardry - Tales of the Forsaken Land /ID SLES_511.18"
+//ELF CRC 82E47620
+Mastercode
+9042a058 0c10a7be
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+20119e24 3c0143e0 //3c0143a0
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

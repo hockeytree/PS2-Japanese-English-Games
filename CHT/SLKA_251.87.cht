@@ -1,0 +1,16 @@
+"Dynasty Warriors 3 - Empires /ID SLKA_251.87"
+//ELF CRC D27095D6
+Mastercode
+9010f170 0c043c04
+
+
+//[Widescreen 16:9]
+
+//widescreen 16:9 (NTSC-K) hack by 99skull
+//credit goes to nemesis2000
+2013a2a4 3c0243d6 //3C0243A0 wide
+201899c0 3c023f2b //3C023F00 renderfix
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

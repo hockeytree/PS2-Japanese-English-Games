@@ -1,0 +1,13 @@
+"Naruto Shippuden - Ultimate Ninja 5 /ID SLES_556.05"
+//ELF CRC C071D4C1
+
+Mastercode
+90161e10 0c05872c
+
+
+// Widescreen Hack (16:9) by ElHecht
+
+// 16:9
+20b3ef14 3f400000 // 3F800000 X-Axis
+//20b3ef18 3f800000 // 3F800000 Y-Axis
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

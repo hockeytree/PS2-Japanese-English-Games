@@ -1,0 +1,15 @@
+"MDK2 - Armageddon /ID SLES_502.48"
+
+Mastercode
+901bccf8 0c06f2e6		// sceSifSendCmd (recommended)
+//~901a0774 0c06bfe7	// scePadRead
+//~901040c8 0c068b0e	// main
+
+/*
+ * Widescreen pnach by El_Patas.
+ */
+
+Widescereen Code
+//Gameplay 16:9 
+2017bc6c 3c0140ab
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

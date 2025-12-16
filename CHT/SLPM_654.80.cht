@@ -1,0 +1,21 @@
+"Michigan /ID SLPM_654.80"
+//ELF CRC B2B71761
+Mastercode
+901139d0 0c044e1c
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by nemesis2000
+// Added conditions for PAL50 and PAL60 (ElHecht)
+
+// 16:9
+2013bdf8 3c02c2a8 // 3C02C2E0
+2013be08 3c024328 // 3C024360
+2013be20 3c02c2a8 // 3C02C2E0
+2013be30 3c024328 // 3C024360
+2016d5d0 3c023f06 // 3c023f33  render fix
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

@@ -1,0 +1,18 @@
+"Thunder Force VI /ID SLPM_550.96"
+
+Mastercode
+9010fa98 0c043e4e
+
+
+//ELF CRC=B5C43B61
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//803f023c 8000a2c7
+20132e1c 3c023f40 //3c023f80
+
+//Zoom
+//20132da8 3c023f00 //3c023f80
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

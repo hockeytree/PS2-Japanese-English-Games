@@ -1,0 +1,25 @@
+"RTX - Red Rock /ID SLES_510.71"
+//ELF CRC 8AEE00C6
+Mastercode
+90157c78 0c055ec6
+
+
+//[Widescreen 16:9]
+
+// ==========
+// pgert@130503
+// http://forums.pcsx2.net/Thread-PCSX2-Widescreen-Game-Patches?pid=240786#pid240786
+// ==========
+
+; ==========
+//RTX - Red Rock * SLES-51069 * PAL/Europe * E349C1D4
+//- Widescreen hack by pgert.
+205f1840 3f400000 // 3F800000 - X-axis
+; ==========
+// comment=- 16:10 support by pgert.
+// 2057beb4 3f000000 // 3F800000 - Y-axis
+; ==========
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

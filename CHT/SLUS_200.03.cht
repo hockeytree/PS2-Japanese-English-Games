@@ -1,0 +1,14 @@
+"Portal Runner /ID SLUS_200.03"
+//ELF CRC=101E8C43
+
+Mastercode
+901eaf30 0c07ab74
+
+//Widescreen Hack by VIRGIN KLM
+
+//P1 Screen
+2030add0 3fa1c40e // 3FD7B013
+
+//P2 Screen
+2030b000 3fa1c40e // 3FD7B013
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

@@ -1,0 +1,11 @@
+"Ben 10 - Protector of Earth /ID SLES_549.52"
+//ELF CRC 1712E9F9
+Mastercode
+901c7ad8 0c071e5e
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9
+2011940c 3c013f4d //3C013F89
+20119410 3421b6e0 //34212493
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

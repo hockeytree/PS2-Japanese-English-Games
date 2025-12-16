@@ -1,0 +1,32 @@
+"Jak & Daxter 2 /ID SCPS_150.21"
+//ELF CRC = EDE4FE64
+
+Mastercode
+901259d8 0c04961e
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack (16:9) by ElHecht
+
+// 16:9
+202af7b0 3f1f3b64 // 3f000000 zoom
+202af75c bf1f3b64 // bf000000 hud fix for zoom
+2079f628 0015120c // 0014E4C4 force native 16:9 mode
+
+
+//[No-Interlacing]
+
+//No Interlacing & No Blur
+
+// No Interlacing
+//202b2074 24060000
+//20878904 aee0ed00
+
+// No Blur
+//00702898 000000e0
+//2010ff6c 30420000
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

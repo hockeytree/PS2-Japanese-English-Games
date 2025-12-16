@@ -1,0 +1,20 @@
+"Splashdown /ID SLUS_202.23"
+
+Mastercode
+903b2438 0c0ec8b6
+
+
+//ELF CRC=A6D116DB
+//Widescreen Hack by Sergx12 and El_Patas
+
+//Gameplay 16:9
+
+20213eb4 3c023fe4 //3C023FAA Y-FOV
+20213eb8 34428e39 //3442AAAB
+20214bec 3c023cac //3C023C8E Zoom
+20214bf0 3442a21d //3442FA34
+202da00c 3c023cac //3C023C8E Water fix
+202da010 3442a21d //3442FA34
+20214e00 3c033f2b //3C033F00 Fix graphical glitch 2 player vertical split screen
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

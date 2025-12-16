@@ -1,0 +1,16 @@
+"Dynasty Warriors 3 /ID SLKA_250.50"
+//ELF CRC 7B7C5CAA
+Mastercode
+9010eb78 0c043a86
+
+
+//[Widescreen 16:9]
+
+//widescreen 16:9 (NTSC-K) hack by 99skull
+//credit goes to nemesis2000
+201379c0 3c0243d6 //3C0243A0 wide
+20184d40 3c023f2b //3C023F00 renderfix
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

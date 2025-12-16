@@ -1,0 +1,17 @@
+"WWE SmackDown! vs. Raw /ID SLKA_252.44"
+//ELF CRC 008A0D12
+Mastercode
+90125e10 0c04972c
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+//803f013c 00008144 2d20a003
+2011a458 3c013fab//3c013f80
+
+//Y-Fov
+//2044023c
+201d5904 3c024455 //3c024420
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

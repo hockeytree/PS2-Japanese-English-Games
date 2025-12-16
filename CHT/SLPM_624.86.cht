@@ -1,0 +1,16 @@
+"Chou Saisoku! Zokusha King B.U. [Simple Series DX] /ID SLPM_624.86"
+//ELF CRC 24E09680
+Mastercode
+901d2f98 0c074b8e
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+2034eb94 3f400000 //3f800000
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

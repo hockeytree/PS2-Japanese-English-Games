@@ -1,0 +1,12 @@
+﻿"Lego Star Wars II: The Original Trilogy /ID SLES_542.21"
+Mastercode
+90393938 0c0e4df6
+
+//Widescreen hack 16:9
+
+20352b48 3c013f10
+2012a250 3c013fab
+20174f0c 3c013f40
+20174f88 3c013f40
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

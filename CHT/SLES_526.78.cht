@@ -1,0 +1,10 @@
+"Viewtiful Joe /ID SLES_526.78"
+Mastercode
+902ed790 0c0bb58c
+
+//comment=Widescreen Hack by El_Patas
+
+//Gameplay 16:9
+202b8304 3c01bf27
+202c1458 3c013f20
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

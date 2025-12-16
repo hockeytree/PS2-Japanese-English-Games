@@ -1,0 +1,21 @@
+"Tiger Woods PGA Tour 2005 /ID SLUS_210.02"
+
+Mastercode
+903002e0 0c0c0060
+
+
+//ELF CRC=88A808FA
+//Widescreen Hack by VIRGIN KLM
+
+//Widescreen hack 16:9
+
+//Menu 3D
+0054ce70 3f400000 //3f800000
+
+//Game Play Fov
+007983f0 3f400000 //3f800000
+
+//Game Play Render Fix
+00798400 44800000 //44000000
+00798408 40000000 //3f400000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

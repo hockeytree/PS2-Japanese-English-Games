@@ -1,0 +1,14 @@
+"Fantastic Four - Rise of the Silver Surfer /ID SLES_546.16"
+//ELF CRC 6302560D
+Mastercode
+9032ae38 0c0cab36
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack
+2037fa68 3faaaaab // 3F800000
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

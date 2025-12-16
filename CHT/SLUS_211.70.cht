@@ -1,0 +1,17 @@
+﻿"Makai Kingdom - Chronicles of the Sacred Tome /ID SLUS_211.70"
+Mastercode
+90108a50 0c04223c
+//90118de8 0c0a1b5c
+//90100244 0c09764c
+
+//Gameplay 16:9 (ELF hack)
+20104de4 3c013f40
+20104de8 44810000
+20104df0 4600c602
+
+//2D Characters X-Fov
+201488ac 3c023f40
+
+//(Old previous Memory hack by JLB)
+//20332070 45700000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

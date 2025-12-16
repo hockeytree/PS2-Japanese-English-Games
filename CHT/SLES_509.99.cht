@@ -1,0 +1,13 @@
+"UFC Throwdown /ID SLES_509.99"
+//ELF CRC D506150D
+Mastercode
+902091d8 0c08241e
+
+//Widescreen hack by El_Patas
+ 
+//Gameplay 16:9 
+201a9844 3c013cbb //3C013C8E Zoom
+201a9848 3421821d //3421FA36
+201a98f0 3c013fe3 //3C013FAA Y-FOV
+201a98f4 3421ae39 //3421AAAB
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

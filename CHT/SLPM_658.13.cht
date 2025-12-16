@@ -1,0 +1,12 @@
+"Fu-un Bakumatsu Den /ID SLPM_658.13"
+
+Mastercode
+9011b5d0 0c046d1c
+
+
+//ELF CRC=950241D3
+//Widescreen hack by Little Giant
+
+//16:9
+2014a394 3c023f40 //3c02bf80
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

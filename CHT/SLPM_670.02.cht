@@ -1,0 +1,13 @@
+"Metal Gear Solid 2 - Substance /ID SLPM_670.02"
+
+Mastercode
+901784d8 0c05e0de
+
+
+//ELF CRC=CED0851A
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+2011fee0 3c013f40 //3c013f80
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

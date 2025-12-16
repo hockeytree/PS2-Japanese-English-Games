@@ -1,0 +1,12 @@
+"Sonic Riders - Zero Gravity /ID SLUS_216.42"
+//ELF CRC D04516EE
+
+Mastercode
+9010f858 0c043dbe
+
+
+//Widescreen hack by JLB
+205fe740 43700000
+205fe7a0 43700000 // shop, character
+20149964 3c023fab // 3c023f80 renderfix
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

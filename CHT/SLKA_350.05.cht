@@ -1,0 +1,16 @@
+"Dynasty Warriors 6 /ID SLKA_350.05"
+//ELF CRC B39683CE
+Mastercode
+901227d0 0c04899c
+
+
+//[Widescreen 16:9]
+
+//widescreen 16:9 (NTSC-K) hack by 99skull
+2014701c 3c024082 //Zoom 3C024049(3.1415923)
+201471b0 3c0543a0 //Y-Axis 3C054370(240)->(320)
+20147af4 3c024082 //render fix 3C024049(3.1415923)
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

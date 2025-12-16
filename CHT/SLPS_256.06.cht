@@ -1,0 +1,22 @@
+"Zettai Zetsumei Toshi 2 - Itetsuita Kioutachi /ID SLPS_256.06"
+
+Mastercode
+902b5250 0c0ad43c
+
+
+//ELF CRC=C988ECBB
+//Widescreen Hack by Little Giant
+
+//black borders's fix
+201cf198 00a52823 //00000000
+
+//16:9
+2048ab28 3f400000 //3f800000 hor
+203a7c60 43e00000 //43A00000 (Increases hor. axis)
+203a7c80 43e00000 //43A00000 render fix
+
+//16:10
+//2048ab28 3f555555 //3F800000 hor
+//203a7c60 43c00000 //43A00000 (Increases hor. axis)
+//203a7c80 43c00000 //43A00000 render fix
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

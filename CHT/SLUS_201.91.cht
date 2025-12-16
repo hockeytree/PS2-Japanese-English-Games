@@ -1,0 +1,24 @@
+﻿"Defender /ID SLUS_201.91"
+Mastercode
+9022d408 0c08b4aa
+//902398d4 0c098105
+//901edf4c 0c0960a6
+
+//wide
+201c8268 3c013f40
+
+//X-Fov Menu (Select Ship)
+202e8a4c 3ff6cf35
+
+//X-Fov Game Play
+202e8b74 3ff6cf35
+
+//X-Fov Cut-Scene
+202e8b9c 3ff6cf35
+
+//???????
+202e8b44 3ff6cf35
+202e8b48 3ff6cf35
+202e8b98 3ff6cf35
+202e8bc0 3ff6cf35
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

@@ -1,0 +1,21 @@
+"Final Fantasy X /ID SCES_504.91"
+//ELF CRC A39517AE
+Mastercode
+902faa58 0c0bea3e
+
+
+//[Widescreen 16:9]
+
+//Final Fantasy X (PAL-FR) 16:9 Widescreen Hack, Render Fix & Progressive Scan
+// 16:9
+201a5974 3c013f19
+201a5978 3421999a
+// Render-Fix
+2011973c 3c014440
+20176144 3c01442b
+// Progressive Scan
+//202d98b4 3c050000
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

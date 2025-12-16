@@ -1,0 +1,13 @@
+"Pryzm - Chapter One /ID SLES_507.21"
+//ELF CRC=D4FB6049
+
+Mastercode
+90399f00 0c0e6768
+
+
+//Widescreen Hack by El_Patas
+//Gameplay 16:9
+201186e8 3c013f22 //3C013F00
+2017e834 3c013f10 //3C013F40 Y-FOV
+203341dc 3c01bec0 //3C01BF00
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

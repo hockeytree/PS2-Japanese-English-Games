@@ -1,0 +1,23 @@
+"Made Man /ID SLES_544.44"
+Mastercode
+902b4328 0c0ad072
+
+// Widescreen Hack by Arapapa
+
+// Widescreen hack 16:9
+
+// Y-Fov
+20152e68 3c013fab
+
+// Zoom
+20220530 3c013f20
+
+// Black Bar Fix
+// Bottom
+20100b8c 3c010000
+//Upper
+20100ba0 3c010000
+
+// Black Scene Fix
+20100e2c 3c010000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

@@ -1,0 +1,12 @@
+"Ape Escape 3 /ID SCES_536.42"
+//ELF CRC 53898FD0
+Mastercode
+90439110 0c10e3ec
+
+
+//[Widescreen 16:9]
+
+// author: CRASHARKI
+//Run the game at 16:9 Widescreen Aspect Ratio from the start.
+0064a188 00000001 //0 Widescreen
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

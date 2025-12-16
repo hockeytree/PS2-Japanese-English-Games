@@ -1,0 +1,16 @@
+"Worms Forts - Under Siege /ID SLES_527.34"
+//ELF CRC 38C8967A
+Mastercode
+9041ad90 0c106b0c
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+201bba00 3c013cb1 //3c013c8e
+201bba04 34214000 //3421fa36
+
+//Y-Fov
+201bba1c 3c013f10 //3c013f40
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

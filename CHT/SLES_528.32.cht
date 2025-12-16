@@ -1,0 +1,13 @@
+"Mega Man X - Command /ID SLES_528.32"
+//ELF CRC=1E3EDB7E
+
+Mastercode
+9011d890 0c0475cc
+
+// Widescreen hack by nemesis2000
+
+// hor value
+2010f0a4 3c013f40
+2010f0a8 44810000
+2010f0b0 4600c602
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

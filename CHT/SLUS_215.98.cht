@@ -1,0 +1,10 @@
+"Digimon World - Data Squad /ID SLUS_215.98"
+//ELF CRC 7E582398
+
+Mastercode
+90259d98 0c09670e
+
+
+// 16:9 hack
+2033a9c0 3faaaaaa // 3F800000
+2033a9d0 3f400000 // 3F800000//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

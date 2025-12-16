@@ -1,0 +1,15 @@
+"Draon Sisters /ID SLES_544.60"
+
+Mastercode
+90293958 0c0a4dfe 		// sceSifSendCmd (recommended)
+//~9026d92c 0c0a2956 	// scePadRead
+//~901001f4 0c0a0a8a	// main
+
+/*
+ * Original patch and value by sergx12
+ * Updated to ELf address by ElHecht
+ */
+
+// 16:9
+20252bf8 3c013f40
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

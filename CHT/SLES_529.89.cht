@@ -1,0 +1,16 @@
+"Blowout /ID SLES_529.89"
+//ELF CRC 0158297B
+Mastercode
+902ef620 0c0bbd30
+
+//Widescreen pnach by El_Patas
+
+//Gameplay 16:9 
+201d29ac 00000000 //AF80C5A8
+203baa18 00000001 //00000000
+
+//HUD fix
+203b7df0 c0222222 //BFF33333
+203b7e08 40222222 //3FF33333
+203b7e28 40222222 //3FF33333
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

@@ -1,0 +1,12 @@
+"Sonic Riders /ID SLUS_213.31"
+//ELF CRC = B44896B7
+
+Mastercode
+90105850 0c0415bc
+
+
+//Widescreen hack
+2044e6d8 43700000
+28008da0 43700000 // store, character
+20134e4c 3c023fab // 3c023f80 renderfix
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

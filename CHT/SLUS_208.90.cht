@@ -1,0 +1,15 @@
+"Rocky - Legends /ID SLUS_208.90"
+
+Mastercode
+901082f0 0c042064
+
+
+//ELF CRC=166EC9E6
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//0000803f 0000003f 0000a043
+20346288 3f400000 //3F800000 fov
+20346290 43e00000 //43A00000 render fix
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

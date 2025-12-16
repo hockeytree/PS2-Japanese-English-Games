@@ -1,0 +1,10 @@
+"Ruff Trigger /ID SLES_540.21"
+//ELF CRC B02C81E5
+Mastercode
+902f0ad8 0c0bc25e
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9 
+2018aa90 3c013fe9 //3C013FAF (Increases hor. axis)
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

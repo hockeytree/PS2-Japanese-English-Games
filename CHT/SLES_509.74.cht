@@ -1,0 +1,17 @@
+"Zapper - One Wicked Cricket! /ID SLES_509.74"
+//ELF CRC DFF3BB23
+Mastercode
+9025ab70 0c096a84
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+//Y-Fov
+201fad48 3c013ed0 //3c013f00
+
+//Zoom
+201fae98 3c013f20 //3c013f00
+
+//Render fix
+201f9ff8 3c013f30 //3c013f00
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

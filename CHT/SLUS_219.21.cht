@@ -1,0 +1,10 @@
+"Ben 10 - Alien Force - Vilgax Attacks /ID SLUS_219.21"
+//ELF CRC=8A1D18EE
+
+Mastercode
+90421758 0c10857e
+
+//Widescreen Hack by El_Patas (NTSC-U by Arapapa)
+
+20741a54 3fe38e38 //3FAAAAAB (Increases hor. axis)
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

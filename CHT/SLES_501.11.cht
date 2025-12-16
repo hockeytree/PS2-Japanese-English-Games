@@ -1,0 +1,13 @@
+"Zone of the Enders /ID SLES_501.11"
+Mastercode
+9048c080 0c122fc8
+
+//comment=Widescreen Hack
+
+//16:9
+204515c0 3c013f40
+
+//HUD (3rd)
+e0010000 005ee62c
+205ee764 3f800000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

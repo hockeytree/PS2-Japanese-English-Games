@@ -1,0 +1,20 @@
+"Suikoden IV /ID SLES_529.13"
+//ELF CRC 1ECA1475
+
+Mastercode
+9049c198 0c12700e
+
+
+//Widescreen Hack by nemesis2000
+// Ported to PAL
+// 16:9
+20489fec 3c013f40 // 00000000 hor fov
+20489ff0 44810000 // 00000000
+20489ff8 4600c602 // 00000000
+
+//Font width
+20736e1c 3f400000 //3F800000 (Person's name)
+20737eec 3f400000 //3F800000 (Dialogue)
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

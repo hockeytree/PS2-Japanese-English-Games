@@ -1,0 +1,20 @@
+"Hot Shots Golf 3 /ID SCUS_971.30"
+
+Mastercode
+901110d8 0c0443de
+
+
+//ELF CRC=9794BFEF
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+20304540 42500000 //42200000
+202f47a0 42500000 //42200000
+202f480c 42500000 //42200000
+
+//Y-Fov
+//000060430000a043
+2034a90c 43955553 //43600000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

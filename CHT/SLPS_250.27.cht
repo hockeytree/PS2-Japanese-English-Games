@@ -1,0 +1,13 @@
+"Golf Paradise DX /ID SLPS_250.27"
+
+Mastercode
+9020d2e0 0c083460
+
+
+//ELF CRC=D7416293
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+203c50f0 3f400000 //3f800000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

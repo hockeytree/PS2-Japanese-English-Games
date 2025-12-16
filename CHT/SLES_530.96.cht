@@ -1,0 +1,15 @@
+﻿"Worms 4 - Mayhem /ID SLES_530.96"
+Mastercode
+9053812c 0c15615d
+//903b16c0 0c153bae
+//9053cb90 0c14f28c
+
+//X-Fov
+20424478 3c013f40
+20424484 4481f000
+20424488 460a0843
+2042448c 461e0842
+
+//Get rid of 'BLACK BAR'
+2017a6b4 3c010000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

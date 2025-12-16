@@ -1,0 +1,23 @@
+"Airforce Delta - Blue Wing Knights /ID SLPM_654.86"
+//ELF CRC 2156763B
+Mastercode
+901389b8 0c04e216
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Game Play
+//0000803f efee6e3f 00000000
+204b32bc 3f400000
+
+//Render Fix
+//0000a043 00006043 (2nd)
+204b32b4 44200000
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

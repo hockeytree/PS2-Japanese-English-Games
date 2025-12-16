@@ -1,0 +1,16 @@
+﻿"Sims, The /ID SLUS_205.73"
+Mastercode
+90350b98 0c0d428e
+//901f44dc 0c0b1cbe
+//902c9a4c 0c0d5f3c
+
+
+//Widescreen hack by Arapapa
+20326108 08030000 //4618b603
+200c0000 4618b603
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461ec602
+200c0010 080c9843
+202c0188 3c013f2b //3c013f00
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

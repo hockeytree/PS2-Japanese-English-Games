@@ -1,0 +1,21 @@
+"Okami /ID SLPM_663.75"
+
+Mastercode
+903fcc70 0c0ff2c4
+
+
+//ELF CRC=C5DEFEA0
+//Widescreen hack by ElHecht (pnach by Arapapa)
+//Nemesis2000's search values did not apply to NTSC-J
+
+// 16:9
+
+// 2044013c 00688144 005b41c4
+2015c364 3c014455 // 3c014420
+
+// 2044013c 00088144 00000000 00000000
+2033b8d0 3c014455 // 3c014420
+
+//both fov+ (Zoom out)
+//2015c33c 3c014388
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

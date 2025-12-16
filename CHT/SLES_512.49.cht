@@ -1,0 +1,16 @@
+"Castleween /ID SLES_512.49"
+//ELF CRC EE3BCA71
+Mastercode
+902d2358 0c0b487e
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+
+//Y-fov
+202b9c78 3c023f40 //3c023f80
+
+//Zoom
+202794b8 3c033f40 //3c033f80
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

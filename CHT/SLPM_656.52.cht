@@ -1,0 +1,29 @@
+"Kowloon Youma Gakuenki /ID SLPM_656.52"
+//ELF CRC 57782923
+Mastercode
+9037b330 0c0dec74
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Game play (dungeon)
+//fa189c3f 760bbf3f 00000000 00000000
+209c1580 3f6a2574 //3F9C18FA
+
+//Render fix
+//85eb513f 1f852b3f 74256A3F
+209c1578 3f8c0000 //3F51EB85
+
+//2D Characters fix
+//00009b43 00000000 0000803F(*) 0000803F
+2077c4fc 3f400000 //3F800000
+//0000803F
+2077ca5c 3f400000 //3F800000
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

@@ -1,0 +1,20 @@
+"Eureka Seven TR1 - New Wave /ID SLPS_255.54"
+
+Mastercode
+9014ea10 0c053a2c
+
+
+//ELF CRC=A87BCC9C
+//Widescreen Hack (NTSC-J by Arapapa)
+
+
+//680402c6 2044033c
+20111248 3c034455 // 3c034420
+
+//a043033c 7043023c 700403ae
+201119c4 3c0343f0 // 3c0343a0
+
+//0000a043 00007043
+203a7f08 43f00000 // 43a00000
+203a8428 43f00000 // 43a00000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

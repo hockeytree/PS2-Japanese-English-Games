@@ -1,0 +1,25 @@
+"F1 Racing Championship /ID SLPS_200.42"
+//ELF CRC 32F1FA12
+Mastercode
+90241618 0c09052e
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+202a0b44 3f23645a //3f59db23
+202a0b58 3efd70a4 //3f28f5c3
+202a0b6c 3f0bc6a8 //3f3a5e35
+202a0b80 3f1624dd //3f483127
+
+//Y-Fov
+203da410 3f9f49e9 //3f6eeeef
+203da414 3f9f49e9 //3f6eeeef
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

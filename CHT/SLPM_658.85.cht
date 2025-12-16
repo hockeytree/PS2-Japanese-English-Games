@@ -1,0 +1,44 @@
+"Rumble Roses /ID SLPM_658.85"
+//ELF CRC C1C91715
+Mastercode
+9010fa50 0c043e3c
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack (16:9) by ElHecht Mod Pnach crc by Acem
+//Font fix by Arapapa
+
+//Widescreen hack 16:9
+
+20104084 3c013f40
+20104088 44810000
+20104090 4600c602
+
+//Font Fix
+//8c3f033c cdcc6334 43080046
+//533f033c 33336334 43080046
+2030f1dc 3c033f53 //3c033f8c
+2030f1e0 34633333 //3463cccd
+
+
+//[No-Interlacing]
+//gsinterlacemode=1
+//Enhancement test
+
+//Framebuffer Display and no interleacing
+//e0041100 01d4ada0
+//21d4ad98 00000002
+//21d4adc0 00000002
+//21d4ada0 00001000
+//21d4adc8 00001000
+
+//e0041400 01d4ada0
+//21d4ada0 00001400
+//21d4adc8 00001446
+//21d4ad98 00000003
+//21d4adc0 00000003
+
+//201029fc 64420000
+//20102c64 64420000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

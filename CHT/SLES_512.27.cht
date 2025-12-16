@@ -1,0 +1,15 @@
+"Lara Croft Tomb Raider: The Angel Of Darkness /ID SLES_512.27"
+
+Mastercode
+90216928 0c0859f2		// sceSifSendCmd (recommended)
+//~90213ed4 0c088d71	// scePadRead
+//~9015bad4 0c083166	// main (unreliable)
+
+/*
+ * Ported by Arapapa.
+ */
+
+Widescreen Code
+20207494 3c013fe2
+20207498 3421fc93
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

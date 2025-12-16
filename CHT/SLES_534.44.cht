@@ -1,0 +1,11 @@
+"Panzer Elite Action /ID SLES_534.44"
+//ELF CRC=349AA2CB
+
+Mastercode
+901b1e10 0c06c72c
+
+
+//Widescreen Hack (16:9) by ElHecht
+203d2ce4 3c0143c0 // 00000000
+203d2ce8 44810800 // c4a10008
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

@@ -1,0 +1,17 @@
+"Ace Combat: Distant Thunder /ID SCES_504.10" 
+//ELF CRC=1B9B7563
+
+//Mastercode
+9026cfd0 0c09b39c
+//9026d93c 0c0a4d55
+//901001f8 0c0a2960
+
+
+
+//PAL2NTSC
+//202629b8 24120002
+
+//Widescreen pnach by El_Patas
+//Widescreen fix
+204235cc 441cf7ae //4440499A
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

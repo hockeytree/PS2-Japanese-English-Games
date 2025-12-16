@@ -1,0 +1,19 @@
+﻿"Evil Twin - Cyprien's Chronicles /ID SLES_502.01"
+Mastercode
+9020e9d8 0c083a1e
+
+// 16:9
+20247644 3c013f40
+20247650 4481f000
+20247654 461ea782
+20247664 e61e0000
+202caa88 3c013f40
+202caa8c 4481f000
+202caaac 461e0542
+
+//black border wip intro
+210c8bbc 00000000
+
+//bold subtitles
+21116b1c 40000000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

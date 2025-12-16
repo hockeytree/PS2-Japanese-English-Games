@@ -1,0 +1,18 @@
+"Pro Evolution Soccer 2011 /ID SLES_556.36"
+Mastercode
+901086d0 0c04215c
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9
+203ce010 3faaaaab //3F800000 (Increases hor. axis)
+
+//Render fix
+20125f2c 3c053fab //3C053F80 (Increases hor. render area)
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

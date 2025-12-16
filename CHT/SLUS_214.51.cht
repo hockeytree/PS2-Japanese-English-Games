@@ -1,0 +1,13 @@
+"Grim Adventures of Billy & Mandy, The /ID SLUS_214.51"
+
+Mastercode
+9010a790 0c04298c
+
+
+//ELF CRC=D3659615
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9 
+//0000803f 000080bf 00000000
+20d467a4 3f400000 // 3f800000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

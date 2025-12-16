@@ -1,0 +1,21 @@
+"2002 FIFA World Cup /ID SLES_507.96"
+//ELF CRC=A75BD67E
+
+Mastercode
+902ffb80 0c0bfe88
+//903685dc 0c0e108d
+//902b7e34 0c0dec0a
+
+
+//Widescreen hack by Arapapa
+//16:9
+//X-Fov
+//83100c46 180080ac
+203085ac 08030000
+
+200c0000 460c1083
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461e1082
+200c0010 080c216c
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

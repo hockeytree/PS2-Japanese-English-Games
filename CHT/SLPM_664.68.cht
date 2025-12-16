@@ -1,0 +1,20 @@
+"Area 51 /ID SLPM_664.68"
+//ELF CRC 2F1BDED1
+Mastercode
+903b1770 0c0ec584
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by ElHecht (pnach by Arapapa)
+
+// 16:9
+20396748 3c193f40 // 00000000 hor fov (00000000 00000000 03ad0046)
+20396760 4499f000 // 00000000
+20396764 461ea502 // 00000000
+20396e30 461ebb03 // 4600bb06 renderfix calculation
+20396e1c 461eab83 // 4600ab86 renderfix calculation
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

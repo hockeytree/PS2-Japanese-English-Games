@@ -1,0 +1,17 @@
+﻿"Dirge of Cerberus - Final Fantasy VII /ID SLUS_214.19"
+Mastercode
+90442dc8 0c111b1f
+//904523e0 0c1148a0
+//902482b4 0c104ed2
+
+// old hack by unknown author
+//2040b628 3c013fc9
+//2040b62c 342162d8
+//2040c220 3c013ec0
+
+// author: Gabominated
+204fb248 3fc962fc //3F970A3D y-fov
+204fb250 42b40000 //42930000 zoom
+2040c5d4 3c013fab //3c013f80 render y-fix
+2040c5f4 3c013fab //3c013f80 render y-fix
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

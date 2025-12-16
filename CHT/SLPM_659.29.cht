@@ -1,0 +1,16 @@
+"Pro Baseball Spirits 2 /ID SLPM_659.29"
+//ELF CRC 49A81A40
+Mastercode
+90122710 0c04896c
+
+
+//[Widescreen 16:9]
+
+//widescreen hack by Arapapa
+
+//16:9
+20545838 3f400000 // 3f800000
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

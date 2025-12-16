@@ -1,0 +1,17 @@
+"ObsCure /ID SLES_527.37"
+//ELF CRC=CBC9B452
+
+Mastercode
+90327378 0c0c9c86
+
+
+//Widescreen Hack by unknown author
+//Gameplay 16:9
+20257c44 3c023f19 //3C023F00 Zoom
+20257c48 3441b604 //44820800
+20257c4c 44810800 //00000000 Y-FOV
+
+//Render-Fix/Inventory
+201e1bdc 3c034120 //3C033F00
+201ca264 3c023faa //3C023F80
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

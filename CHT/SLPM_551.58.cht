@@ -1,0 +1,17 @@
+"Pro Yakyuu Spirits 6 /ID SLPM_551.58"
+Mastercode
+90121518 0c0484ee
+
+
+//[Widescreen 16:9]
+
+//16:9 widescreen hack
+//16:9 widescreen hack by 99skull
+2014cb88 3c013f2a //vert fov
+2014cbc0 44819800 //vert fov
+2014cbcc 46009802 //vert fov
+2014cd68 3c053faa //3C053F80 zoom
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

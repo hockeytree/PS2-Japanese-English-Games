@@ -1,0 +1,9 @@
+"International Cue Club /ID SLES_509.14"
+//ELF CRC 4369DC37
+Mastercode
+902c4ab0 0c0b1254
+
+//Widescreen Hack by El_Patas
+
+2031ebfc 3f400000 // 3F800000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

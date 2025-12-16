@@ -1,0 +1,69 @@
+"Final Fantasy X - International /ID SLPS_250.88"
+Mastercode
+9011b9ec 0c0ba62a
+
+//enable next set
+//F011B9EC 0000000E
+//F011B9F4 002DDF17
+
+480p fromfb part2
+202d9564 24110000
+202d9574 24130001
+202d98ac 2402059f
+202d9930 26450032
+
+480p fromfb part3
+202d9894 00000000
+202d974c 00064043
+202d975c 31080040
+202d977c 00c0802d
+202d9784 3914ffff
+
+480p fromfb part4
+2011fca0 00000000
+20244974 00000000
+
+480p fromfb Special codes
+202d9568 24120050
+202d9954 64e301b8
+
+Widescreen Hack FB
+20313f80 3f2aaaaa
+
+//Enable following Cheats
+//902ddf14 0c0bbaeb
+//f01000a4 002ddf17
+
+
+//Widescreen Hack OPL
+//201a5854 3c013f19
+//201a5858 3421999a
+//2011973c 3c014440
+//20176124 3c01442b
+
+//y fix
+//20313f84 3f5eeeef
+
+//world map
+//20262e40 3c013f40
+
+//sphere grid
+//2026479c 3c013f40
+
+Enable Code
+9011B9EC 0C0BA62A
+F011B9EC 0000000E
+F011B9F4 002DDF17
+
+Enemies Start With 1 HP
+00316FBE 00000001
+
+Full HP All Characters & Aeons
+4031E738 00120025
+0001869F 00000000
+Full MP All Characters & Aeons
+4031E73C 00120025
+0000270F 00000000
+
+Force English
+0031ce5e 00000001

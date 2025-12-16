@@ -1,0 +1,15 @@
+﻿"Brothers In Arms - Earned In Blood /ID SLUS_213.10"
+Mastercode
+9012eab0 0c04ba54
+
+//gameplay
+202f114c 3c023f40
+
+//menu font fix
+203c58ec 3c033f40
+203c58f4 3c033f80
+203c58f8 44830800
+203c58fc ae63010c
+203c5900 c6600108
+203c5904 46010036
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

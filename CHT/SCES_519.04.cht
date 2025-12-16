@@ -1,0 +1,16 @@
+"SOCOM II - U.S. Navy SEALs /ID SCES_519.04"
+//comment=Widescreen hack by ElHecht
+
+Mastercode
+901a6470 0c0698c4
+
+// 16:9
+201c2e44 3c013f40
+201c2e48 4481e800
+201c2e50 461dbdc3
+
+2029a008 461d0002
+20299dd0 461d0002
+
+203c17f0 3c023b00
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

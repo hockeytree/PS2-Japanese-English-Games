@@ -1,0 +1,17 @@
+"Fire Blade /ID SLUS_201.98"
+//ELF CRC = 18720162
+
+Mastercode
+9020f140 0c083bf8
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9
+20559830 3f400000 //3F800000 (Increases hor. axis)
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

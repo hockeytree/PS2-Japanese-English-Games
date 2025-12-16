@@ -1,0 +1,13 @@
+"18 Wheeler-American Pro Trucker /ID SLES_502.14"
+//ELF CRC=31166896
+
+Mastercode
+90208328 0c082072
+//901f039c 0c080296
+//901ed528 0c07fb0e
+
+
+//Widescreen Hack by El_Patas
+//16:9
+201d6ddc 3c013f40 //3C013F80 (Increases hor. axis)
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

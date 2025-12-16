@@ -1,0 +1,27 @@
+"Onimusha - Dawn of Dreams [Disc 2] /ID SLES_820.39"
+//ELF CRC 812C5A96
+
+Mastercode
+90111350 0c04447c
+
+
+//Widescreen correction by nemesis2000 (pnach by nemesis2000 )
+//gameplay
+
+//val1
+2012f974 3c023f19
+2012f978 34439999
+
+//val2
+2012fb64 3c033f19
+2012fb6c 334639999
+
+//val3
+2012f960 3c023f19
+2012f968 34439999
+
+//rfix1
+2012fbe4 3c02c3d6
+
+//rfix2
+2012facc 3c024527//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

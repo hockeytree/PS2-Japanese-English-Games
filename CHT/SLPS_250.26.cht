@@ -1,0 +1,12 @@
+"Dead or Alive 2 - Hardcore /ID SLPS_250.26"
+//ELF CRC 82C02240
+
+Mastercode
+903bea60 0c0efa40
+
+//Widescreen hack by No.47
+204588d0 3f400000
+20459140 3f400000
+204599b0 3f400000
+2045a220 3f400000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

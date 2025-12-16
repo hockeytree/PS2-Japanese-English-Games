@@ -1,0 +1,15 @@
+"Black & Bruised /ID SLES_516.20"
+
+Mastercode
+901c6cb8 0c071ad6		// sceSifSendCmd (recommended)
+//~9010e76c 0c0743ac	// scePadRead
+//~90114e68 0c0400cc	// main (unreliable)
+
+/*
+ * Widescreen hack by Arapapa.
+ */
+
+Widescreen Code
+//X-Fov
+201118b8 3c023ec0
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

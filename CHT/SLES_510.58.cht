@@ -1,0 +1,10 @@
+"Maken Shao - Demon Sword /ID SLES_510.58"
+
+Mastercode
+9021f9b0 0c087e14		// sceSifSendCmd (recommended)
+//~901ff374 0c085d46	// scePadRead
+//~90193280 0c085132	// main
+
+Widescreen Code
+2034ac20 3f533334
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

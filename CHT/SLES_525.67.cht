@@ -1,0 +1,13 @@
+"Catwoman /ID SLES_525.67"
+//ELF CRC B90470B8
+Mastercode
+901d8340 0c076078
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom fix (Internal Widescreen)
+20116c64 3c013f80 //3c013f59
+20116c68 00000000 //3421999a
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

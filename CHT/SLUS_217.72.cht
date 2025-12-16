@@ -1,0 +1,16 @@
+"Tiger Woods PGA Tour 09 /ID SLUS_217.72"
+//ELF CRC 56D7AC28
+
+Mastercode
+903376b0 0c0cdd54
+
+
+//Widescreen Hack by VIRGIN KLM
+
+//Game Play Fov
+008cc390 3f400000 //3f800000
+
+//Game Play Render Fix
+008cc3a0 44800000 //44000000
+008cc3a8 40000000 //3f400000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

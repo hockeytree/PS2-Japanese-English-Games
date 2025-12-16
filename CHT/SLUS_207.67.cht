@@ -1,0 +1,18 @@
+"MX Unleashed /ID SLUS_207.67"
+
+Mastercode
+903fe5f8 0c0ff926
+
+
+//ELF CRC=9866FE54
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9 
+20112e60 3c033caa //3C033C8E Zoom
+20112e64 3463a21d //3463FA34
+20112e58 3c023fab //3C023F80 Y-FOV
+
+//Render fix
+201acb64 3c03bfab //3C03BF80
+201acb68 3c023fab //3C023F80
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

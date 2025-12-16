@@ -1,0 +1,15 @@
+"Need for Speed - ProStreet /ID SLUS_216.58"
+//ELF CRC DD3CE71B
+
+Mastercode
+9058a768 0c162982
+
+
+// by Xan1242 & Aero_
+// Enables Widescreen Mode
+20168a10 24020001 // li v0, 1
+
+// Corrects Aspect Ratio
+206828d8 3f400000 // Horizontal: 0.75f
+206828dc 3f8ccccd // Vertical: 1.10f
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

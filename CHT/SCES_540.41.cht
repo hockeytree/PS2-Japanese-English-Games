@@ -1,0 +1,12 @@
+"Ace Combat - The Belkan War /ID SCES_540.41"
+//ELF CRC 194C9F38
+
+Mastercode
+90308cc0 0c0c22d8
+
+//Widescreen fix by nemesis2000 (PAL-E by mirh)
+
+//widescreen fix
+203fc370 43d638f3
+203fc374 43eb7385
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

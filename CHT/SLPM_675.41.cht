@@ -1,0 +1,20 @@
+"NBA Live 2003 /ID SLPM_675.41"
+//ELF CRC 767799C1
+Mastercode
+902c4d30 0c0b12f4
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Gameplay 16:9
+
+2020cb3c 3c013fe3 //3c013faa
+2020cb40 34218e2a //3421aaab
+
+202145ec 3c013fab //3c013f80
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

@@ -1,0 +1,18 @@
+"Silent Hill - Origins /ID SLKA_254.22"
+//ELF CRC F3662F76
+Mastercode
+90324100 0c0c8fe8
+
+
+//[Widescreen 16:9]
+
+//Widescreen fix by nemesis2000 (NTAC-K by nemesis2000)
+
+
+//Zoom fix (Internal Widescreen)
+201da984 3c013fe3
+201da988 34218e39
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

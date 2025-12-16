@@ -1,0 +1,9 @@
+"Steambot Chronicles /ID SLES_541.38"
+Mastercode
+9024eb10 0c093a6c
+
+//ELF CRC=48AC09BC
+//Widescreen Hack  (Converted from NTSC patch by Somechump)
+20132b40 3c033f40  //3c033f80
+20132998 3c0643d6  //3C0643A0
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

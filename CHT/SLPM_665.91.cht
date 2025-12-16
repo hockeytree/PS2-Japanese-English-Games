@@ -1,0 +1,19 @@
+"FlatOut 2 GTR /ID SLPM_665.91"
+//ELF CRC 1E05A4A5
+Mastercode
+90343de8 0c0d0f22
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by El_Patas (NTSC-J by Arapapa)
+
+//Gameplay 16:9
+
+202d7180 3c013f14 //3c013f00
+20250778 3c014010 //3c014040
+20220c38 3c013f8a //3C013F80
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

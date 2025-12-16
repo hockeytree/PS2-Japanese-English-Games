@@ -1,0 +1,10 @@
+"Devil May Cry 3 - Dantes Awakening /ID SLES_530.38"
+//ELF CRC 7ADCB24A
+
+Mastercode
+9010ffa8 0c043f92
+
+
+//Widescreen Hack (16:9) by ElHecht
+21cb2a90 3f400000 // 3F800000 X-RES
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

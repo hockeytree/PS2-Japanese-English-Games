@@ -1,0 +1,46 @@
+"Baldur's Gate - Dark Alliance /ID SLUS_200.35"
+//ELF CRC = 773A8DAB
+
+Mastercode
+9020c0e0 0c082fe0
+
+//vert fov-
+20320fd0 3f1f49f4
+2032102c 3f1f49f4
+20322950 3f1f49f4
+20320efc 3f1f49f4
+20320f44 3f1f49f4
+
+//both fov+
+2014ca8c 3c014440
+20152998 3c014440
+20200bf8 3c014440
+2013d048 3c014440
+20144f60 3c014440
+
+//render fix value by No.47
+20320fa8 3fe3d70a
+20320fcc 3fe3d70a
+
+
+// 16:10 - pgert
+// ==========
+//vert fov-
+// 20320fd0 3f0f5c2a
+// 2032102c 3f0f5c2a
+// 20322950 3f0f5c2a
+// 20320efc 3f0f5c2a
+// 20320f44 3f0f5c2a
+// ==========
+// both fov+
+// 2014ca8c 3c014455
+// 20152998 3c014455
+// 20200bf8 3c014455
+// 2013d048 3c014455
+// 20144f60 3c014455
+// ==========
+// render fix value by No.47
+// 20320fa8 3fcc49bb
+// 20320fcc 3fcc49bb
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

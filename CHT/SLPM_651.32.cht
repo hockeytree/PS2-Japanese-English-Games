@@ -1,0 +1,35 @@
+"Warriors of Might and Magic /ID SLPM_651.32"
+//ELF CRC 19122158
+Mastercode
+903098f8 0c0c25e6
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by ElHecht and Arapapa
+
+//Gameplay
+202f89f0 3c013f81 //00000000
+202f89f8 3421de4d //00000000
+202f8aa0 ac810000 //e4840000
+20159924 3c013ec0 //3c013f00
+
+//Menu Fix
+//89c0013c 92242134
+//40dc013c d8b62134
+20260f04 3c01c04d //46000843 Y-Fov
+20260f08 3421b6d8 //34212492
+
+//8940013c 92242134
+//40d4013c d8b62134
+20260f10 3c01404d //46000843 Y-Fov
+20260f14 3421b6d8 //34212492
+
+//803f013c 00008144 40780e46
+202f8c64 3c023fab // 3c013f80 newgame menu zoom
+202f8c68 3442aaab // 44810000 newgame menu zoom
+202f8c7c ac82003c // e480003c
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

@@ -1,0 +1,13 @@
+﻿"Sonic Unleashed /ID SLUS_218.46"
+Mastercode
+9065b758 0c196d7e
+//9066e558 0c19fac4
+//904ff630 0c038d28
+
+//FOV
+20872cd0 3fd21daf
+
+//Fixes video aspect ratio
+20ed1a68 43e00000
+20ed1a58 00000000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

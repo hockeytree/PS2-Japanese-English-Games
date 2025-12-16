@@ -1,0 +1,24 @@
+"Simple 2000 Series Vol.56 - The Survival Game /ID SLPM_625.04"
+//ELF CRC 2F65DD7C
+Mastercode
+901f1938 0c07c5f6
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Y-Fov  202208E8
+20250e98 3fe38e2a //3faaaaab
+
+//Zoom
+//20196184 3c01bec0 //3c01bf00
+//20196e84 3c013f40 //3c013f80
+202afef0 3f6eeee9 //3f333333
+202afef8 3f6eeee9 //3f333333
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

@@ -1,0 +1,13 @@
+"Musashiden II - Blademaster /ID SLPM_660.08"
+//ELF CRC F0E90890
+Mastercode
+902ad158 0c0ab3fe
+//[Widescreen 16:9]
+
+
+//Widescreen Hack
+203e5d08 3f19999a // 3F4CCCCD
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

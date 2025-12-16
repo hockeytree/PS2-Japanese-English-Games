@@ -1,0 +1,11 @@
+"ATV Off-Road /ID SCES_502.93"
+//ELF CRC C5A2A6E6
+Mastercode
+902a8338 0c0aa076
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9 
+2011f2ac 3c023cac //3C023C8E Zoom
+2011f2c0 3c023fac //3C023F80 Y-FOV
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

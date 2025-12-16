@@ -1,0 +1,16 @@
+"Tom Clancys Splinter Cell - Chaos Theory /ID SLES_530.07"
+//ELF CRC 4C4D7072
+
+
+Mastercode
+9020f510 0c083cec
+
+//pgert@150820
+//http://forums.pcsx2.net/Thread-PCSX2-Widescreen-Game-Patches?pid=240786#pid240786
+
+
+//16:9 Widescreen hack for Solo/Coop mode by ElHecht.
+201f2908 3c023f40 // 3C023F80 - X-axis
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

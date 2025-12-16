@@ -1,0 +1,19 @@
+"Burnout Dominator /ID SLPM_667.39"
+//ELF CRC DDF76A98
+Mastercode
+903afdd0 0c0ebf1c
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack (16:9) by Arapapa
+
+//Force turn on Internal Widescreen (Full boot bypassing)
+2038b128 24020002 //30420003
+
+//Zoom fix
+2043e8f0 3faaaaab // 3F800000 Camera Zoom
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

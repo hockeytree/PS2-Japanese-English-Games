@@ -1,0 +1,10 @@
+"LA Rush /ID SLES_534.19"
+//ELF CRC EA0CB4B8
+
+Mastercode
+90329f90 0c0ca78c
+
+
+//Widescreen Hack
+202e3900 3c013f40 //ffff8434803f013c to ffff8434403f013c
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

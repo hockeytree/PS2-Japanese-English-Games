@@ -1,0 +1,22 @@
+"BIGS, The /ID SLUS_216.23"
+
+Mastercode
+9039ee30 0c0e7b34
+
+
+//ELF CRC=81FF8198
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Normal play
+20bdf298 3fe38e32 //3FAAAAAB
+
+//Turbo and Power blast play
+20bdf378 3fe38e32 //3FAAAAAB
+20bdf430 3fe38e32 //3FAAAAAB
+20bdf4e4 3fe38e32 //3FAAAAAB
+20bdf5c4 3fe38e32 //3FAAAAAB
+20bdf67c 3fe38e32 //3FAAAAAB
+20bdf730 3fe38e32 //3FAAAAAB
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

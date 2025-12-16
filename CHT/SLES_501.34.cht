@@ -1,0 +1,12 @@
+"Oni /ID SLES_501.34"
+
+Mastercode
+902c7798 0c0b1d8e		// sceSifSendCmd (recommended)
+
+/*
+ * Widescreen hack by Catarax.
+ */
+
+Widescreen Code
+201346f8 3c013f40
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

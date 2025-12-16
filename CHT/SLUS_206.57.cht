@@ -1,0 +1,13 @@
+"McFarlane Evil Prophecy /ID SLUS_206.57"
+
+Mastercode
+90228420 0c08a0b0
+
+
+//ELF CRC=6798E3C9
+//Widescreen hack (NTSC-U by Arapapa)
+
+//Widescreen hack 16:9
+
+203173c0 443b8000 //447a0000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

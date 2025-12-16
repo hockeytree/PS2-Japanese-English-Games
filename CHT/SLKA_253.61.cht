@@ -1,0 +1,17 @@
+"Gaeguri Jungsa Keroro - Bulkkottwineun Battle Royal Z (Korea) /ID SLKA_253.61"
+//ELF CRC 42EE9611
+Mastercode
+90138c98 0c04e2ce
+//[Widescreen 16:9]
+
+
+//Widescreen hack by Little Giant (NTSC-K by Arapapa)
+
+//16:9
+e0025555 00a93d04 //
+20a63934 3c013f40 //3c013f80 zoom
+20a93d04 44c71c71 //44955571 vert
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

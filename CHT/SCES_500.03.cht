@@ -1,0 +1,12 @@
+"Dead or Alive 2 /ID SCES_500.03"
+
+Mastercode
+903b81e0 0c0ee020
+
+/*
+ * Widescreen hack by nemesis2000.
+ */
+
+Widescreen Code
+2021c21c 3c014534
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

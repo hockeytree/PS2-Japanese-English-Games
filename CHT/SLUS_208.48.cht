@@ -1,0 +1,12 @@
+"LifeLine - Voice Action Adventure /ID SLUS_208.48"
+
+Mastercode
+902a6798 0c0a998e
+
+
+//ELF CRC=FD0936BF
+// Life Line Widescreen Hack by VIRGIN KLM
+
+//Widescreen
+2038d3a8 3f400000 // 3F800000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

@@ -1,0 +1,14 @@
+"Disney/Pixar Toy Story 3 /ID SLES_556.22"
+//ELF CRC EA6A9029
+Mastercode
+905398b0 0c14e5d4
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom fix (Internal Widescreen)
+//aa3f033c 0040023c 713d6334
+204f6ee8 3c033f80
+204f6ef0 34630000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

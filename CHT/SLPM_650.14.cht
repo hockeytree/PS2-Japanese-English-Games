@@ -1,0 +1,26 @@
+"Mystical Ninja Goemon Zero (Aug 26, 2005 prototype) /ID SLPM_650.14"
+
+Mastercode
+90378200 0c0de028
+
+//ELF CRC=FA3A9C0F
+//Widescreen hack 16:9 by Nikitalita
+
+//Zoom
+202f33bc 3c013f9a
+202f33c0 3421e462
+
+//Y-Fov
+2033f5b8 3c013f20
+2033f5bc 3421603a
+
+//Menu and HUD fix
+2033f758 080e67f8
+
+//z_un_00399fe0
+20399fe0 c6000230
+20399fe4 3c013f40
+20399fe8 4481f000
+20399fec 461e0002
+20399ff0 080cfdd7
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

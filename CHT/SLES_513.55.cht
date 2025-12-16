@@ -1,0 +1,15 @@
+"Big Mutha Truckers /ID SLES_513.55"
+//ELF CRC 506644B3
+Mastercode
+90353cb0 0c0d4ed4
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Zoom
+201aa3f4 3c013f3a //3c013f80
+
+//Y-Fov
+2037c730 3fe00000 //3f99999a
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

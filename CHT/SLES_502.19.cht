@@ -1,0 +1,11 @@
+"NBA Street /ID SLES_502.19"
+//ELF CRC=0F9479F8
+
+Mastercode
+90476340 0c11d878
+
+
+// Widescreen Hack by VIRGIN KLM
+//Widescreen - 3D Elements
+20644d48 3fb60b61 // 3F888889
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

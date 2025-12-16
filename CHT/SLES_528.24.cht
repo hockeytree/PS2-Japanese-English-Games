@@ -1,0 +1,13 @@
+"Furry Tales /ID SLES_528.24"
+
+Mastercode
+9011da50 0c04763c		// sceSifSendCmd (recommended)
+
+/*
+ * Widescreen hack by Arapapa.
+ */
+
+Widescreen Code
+//X-Fov
+20286ecc 3c023f2a
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

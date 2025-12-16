@@ -1,0 +1,19 @@
+"Ultraman Fighting Evolution 2 /ID SLPS_251.55"
+//ELF CRC BF42F7B6
+Mastercode
+903b98d8 0c0ee5de
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Little Giant
+
+//16:9
+202006b4 3c013f40 //3C013F80
+
+//16:10
+//202006b4 3c013f55 //3C013F80
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

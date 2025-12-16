@@ -1,0 +1,13 @@
+﻿"SOCOM II /ID SCUS_972.75"
+Mastercode
+901a6138 0c0697f6
+//901bd810 0c065600
+//901c4d04 0c060780
+
+//Widescreen hack 16:9
+201c0474 3c013f40
+201c0478 4481e800
+201c0480 461dbdc3
+20291450 461d0002
+20291688 461d0002
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

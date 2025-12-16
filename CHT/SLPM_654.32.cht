@@ -1,0 +1,19 @@
+"J-League Winning Eleven Tactics /ID SLPM_654.32"
+
+Mastercode
+9130a078 0c4c27c6
+
+
+//ELF CRC=6B5DBC22
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+21306b1c 3c013f40 //00000000
+21306b20 44810000 //00000000
+21306b28 4600c602 //00000000
+
+//Render fix
+2138e068 3c023fab //3c023f80
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

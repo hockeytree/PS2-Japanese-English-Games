@@ -1,0 +1,15 @@
+"National Geographic - Safari Adventures Africa /ID SLES_545.08"
+//ELF CRC FB3E72CD
+Mastercode
+90111bb0 0c044694
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+202301c8 3c023ec0 //3c023f00
+
+//Render fix
+201ea67c 3c024340 //3c024380
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

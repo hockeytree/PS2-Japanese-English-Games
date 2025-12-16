@@ -1,0 +1,21 @@
+﻿"Worms 3D /ID SLUS_208.94"
+Mastercode
+904ef620 0c13bd30
+//904ea2f4 0c145267
+//9027fec0 0c142a48
+
+//Widescreen hack 16:9
+202e0e34 3c013f40
+202e0e38 4481f000
+202e0e48 460a0843
+202e0e4c 461e0842
+
+/////////////////////////////////////////////
+//Zoom
+//20290280 3c014010
+//202ca964 3c013ff0
+//202e0dec 3c014080
+//Y-Fov
+//202e0ed8 3c013f00
+//202e0ef8 3c0135f6
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

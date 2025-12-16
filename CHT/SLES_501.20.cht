@@ -1,0 +1,10 @@
+"Rumble Racing /ID SLES_501.20"
+//ELF CRC A9908033
+Mastercode
+9010bb38 0c042e76
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9
+201549f0 3c023f40 //3C023F80 (Increases hor. axis)
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

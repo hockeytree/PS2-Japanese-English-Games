@@ -1,0 +1,15 @@
+"Pro Evolution Soccer 4 /ID SLES_527.60"
+//ELF CRC=FB8BCB6D
+
+Mastercode
+90108910 0c0421ec
+
+
+
+//Widescreen Hack by El_Patas. both 2.00 and 1.02 versions.
+//Gameplay 16:9
+202d7f40 3faaaaab //3F800000 (Increases hor. axis)
+
+//Render fix
+20125f74 3c023fab //3C023F80
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

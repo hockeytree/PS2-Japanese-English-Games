@@ -1,0 +1,19 @@
+"Ultraman Fighting Evolution 3 /ID SLPS_254.41"
+//ELF CRC 128CF8F4
+Mastercode
+90377a98 0c0dde4e
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Little Giant
+
+//16:9
+204b344c 3f400000 //3f800000
+
+//16:10
+//204b344c 3f555555 //3f800000
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

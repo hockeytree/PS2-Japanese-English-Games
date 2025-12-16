@@ -1,0 +1,11 @@
+"Flintstones - Viva Rock Vegas /ID SLES_502.59"
+//ELF CRC E7C59CE9
+Mastercode
+9017e6b8 0c05f956
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9
+20139738 3c013f40 //3C013F80 Single Player
+20139814 3c013ec0 //3C013F00 Multiplayer
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

@@ -1,0 +1,12 @@
+"Pride FC - Fighting Championships /ID SLES_513.71"
+//ELF CRC=A2BB25B3
+
+Mastercode
+9010d298 0c04344e
+
+
+//Widescreen hack by Arapapa
+20103094 3c013f40 //00000000
+20103098 44810000 //00000000
+201030a0 4600c602 //00000000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

@@ -1,0 +1,42 @@
+"Project Zero /ID SLPS_250.74"
+
+Mastercode
+90222b80 0c088a88
+
+
+//Widescreen Hack by nemesis2000 and devina40 (NTSC-J by Arapapa)
+
+//Game Play
+20186f14 3c013f40 //3c013f80
+
+//Cutscenes by pgert
+201828ec 3c013f40 //3C013F80
+
+//Cut-scene render fix
+//0045013c 00208144 280040e6
+201828e0 3c0145c0 //3c014500
+
+//FMV's fix
+2017f520 24027100
+2017f530 24027100
+2017f538 24091e00
+
+//Lens Flare's fix
+//Modified based on PAL (0,875 instead of 0,75) - better.   
+2013601c 3c013f12 //3c013f00
+201349a8 3c01428c //3c0142a0
+20134a8c 3c01410c //3c014120
+20134a54 3c014128 //3c014140
+20134a10 3c0141a8 //3c0141c0
+
+//Remove effects (Memory Hack)
+//6666f643 0000803f 0000803f
+//203496cc 00000000 //blurry bloom
+//00002044 0000e043 0000803f 0000803f 00000000 00000000 (10)
+//20349b4c 00000000 //dark filter
+//00002044 0000e043 0000803f 0000803f 00000000 00000000 (8)
+//203499dc 00000000 //post process and noise
+
+//No interlacing by asasega
+//2022e3cc 00000000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

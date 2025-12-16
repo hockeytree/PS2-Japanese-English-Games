@@ -1,0 +1,18 @@
+"Drakengard /ID SLES_523.22"
+
+Mastercode
+90322038 0c0c87b6		// sceSifSendCmd (recommended)
+//~90279370 0c0c3cda	// main (unreliable)
+
+/*
+ * Widescreen hack by ElHecht.
+ */
+
+Widescreen Code
+// 16:9
+2030101c 3c013f40
+20301028 4481f000
+2030102c 461ec602
+20264980 3c0143d6
+2012a0ac 3c014456
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

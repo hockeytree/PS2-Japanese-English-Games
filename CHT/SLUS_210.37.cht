@@ -1,0 +1,17 @@
+"Project - Snowblind /ID SLUS_210.37"
+//ELF CRC 2BDA8ADB
+
+Mastercode
+902b6878 0c0ad9c6
+
+
+//Widescreen hack by ElHecht.
+//Causes a crash on Level 2. NOT CONFIRMED ON REAL HARDWARE
+
+// 16:9 single player mode
+201d87b8 3c013fe3 //3c013faa
+201d87bc 34218e39 //3421aaab
+203327f0 3c013fe3 //3c013faa
+203327f4 34218e39 //3421aaab
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

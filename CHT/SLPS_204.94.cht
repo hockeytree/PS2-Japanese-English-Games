@@ -1,0 +1,15 @@
+"Simple 2000 Series Vol.117 - The Zerosen /ID SLPS_204.94"
+//ELF CRC 54673FA9
+
+Mastercode
+902095d8 0c08251e
+
+
+//Widescreen hack by Arapapa, 16:9
+
+//X-Fov
+2012aecc 3c0a3f40 //3c0a3f80
+
+//Render Fix
+20186d44 3c033fb0 //3c033f80
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

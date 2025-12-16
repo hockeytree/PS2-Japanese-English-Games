@@ -1,0 +1,16 @@
+"Defender /ID SLES_507.14"
+//ELF CRC 8A6875C4
+Mastercode
+9022ed88 0c08bb0a
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+2010bc34 3c013fd5 //3c013fa0
+20137940 3c013fd5 //3c013fa0
+20184ba8 3c013fd5 //3c013fa0 Menu
+201c9efc 3c013fd5 //3c013fa0
+201c9fb4 3c013fd5 //3c013fa0 Gameplay
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

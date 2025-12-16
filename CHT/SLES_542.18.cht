@@ -1,0 +1,16 @@
+"Rule of Rose /ID SLES_542.18"
+
+Mastercode
+902626d8 0c09895e 		// sceSifSendCmd (recommended)
+//~9026d3a0 0c09eca7 	// scePad2Read
+
+Widescreen Code
+0013bf48 3c013f12
+0013bf70 3c013f10
+
+// Noise off
+//201cb014 e43f1fa0
+
+// Black borders's fix
+20191430 24050000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

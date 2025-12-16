@@ -1,0 +1,19 @@
+"Shinseiki Yuusha Taisen /ID SLPM_658.21"
+//ELF CRC 4EC707A6
+Mastercode
+9010e338 0c043876
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9
+2017a6c0 3c023f40 //3C023F80 (Increases hor. axis)
+
+//Render fix
+2017c954 3c033fab //3C033F80
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

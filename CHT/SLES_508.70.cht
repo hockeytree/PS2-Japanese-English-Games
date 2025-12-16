@@ -1,0 +1,19 @@
+"Mat Hoffman's Pro BMX 2 /ID SLES_508.70"
+//ELF CRC=DF5C06BE
+
+Mastercode
+9039d110 0c0e73ec
+
+
+//Widescreen hack by El_Patas
+//Gameplay 16:9 
+2037b1b8 3c033fc0 //3C034000 Zoom
+201cc274 3c023fab //3C023F80 Y-FOV
+
+//Alternative Gameplay 16:9
+//201cc264 3c023ca8 //3C023C8E Zoom 
+//201cc274 3c023fab //3C023F80 Y-FOV
+
+//Render fix
+20254128 3c023c2e //3C023C0E
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

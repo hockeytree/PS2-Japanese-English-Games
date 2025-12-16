@@ -1,0 +1,15 @@
+"Breath of Fire V - Dragon Quarter /ID SLPM_651.96"
+Mastercode
+9010ea38 0c043a36
+
+
+//[Widescreen 16:9]
+
+//Widescreen patch by nemesis2000 (pnach by Little Giant)
+
+2012dc8c 3c024307 //3c024333 hor val
+2012ddd8 3c034074 //3c034036 render fix
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

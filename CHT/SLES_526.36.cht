@@ -1,0 +1,28 @@
+﻿"Colin McRae Rally 2005 /ID SLES_526.36"
+Mastercode
+903e93f8 0c0fa4a6
+
+//In-Car View (16:9) Zoom fix
+201e86bc 3c013fa0
+
+//-----
+//Zoom
+//2033dbc8 3c013f40 //3c013f00
+
+//Y-Fov
+//2033dc40 08030000
+//200c0000 4615a542
+//200c0004 3c013f40
+//200c0008 4481f000
+//200c000c 461ead43
+//200c0010 080cf711
+
+//X-Fov (4:3)
+//2019a418 3c013f40 //3c013f80
+
+//201cf5f4 3c0141f0 //3c014190
+//201cf684 3c0141f0 //3c014170
+
+//16:9
+//2019a420 3c013f80 //3c013f40
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

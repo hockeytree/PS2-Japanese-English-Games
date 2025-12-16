@@ -1,0 +1,17 @@
+"Keroro Gunsou - Mero Mero Battle Royale Z /ID SLPS_255.75"
+//ELF CRC 6E8687AE
+Mastercode
+90139698 0c04e54e
+//[Widescreen 16:9]
+
+
+//Widescreen hack by Little Giant
+
+//16:9
+e0025555 00a97474 //
+20a6707c 3c013f40 //3c013f80 zoom
+20a97474 44c71c71 //44955571 vert
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

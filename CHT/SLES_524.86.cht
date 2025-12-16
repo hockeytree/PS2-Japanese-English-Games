@@ -1,0 +1,13 @@
+"Astroboy /ID SLES_524.86"
+//ELF CRC 3751BD05
+Mastercode
+90487f98 0c121f8e
+
+//Widescreen pnach by El_Patas
+
+//Fov
+202cd40c 3c013fd5 //3C013FA0
+
+//Zoom
+203811f8 3c013ec0 //3C013F00
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

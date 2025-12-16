@@ -1,0 +1,19 @@
+"Elemental Gerad /ID SLPM_626.23"
+//ELF CRC B99379B7
+Mastercode
+902b4558 0c0ad0fe
+//[Widescreen 16:9]
+
+
+//Widescreen Hack
+
+//story
+204788f4 3f400000
+
+//battle
+204783b4 3f400000
+20478a44 3f400000
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

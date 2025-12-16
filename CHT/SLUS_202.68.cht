@@ -1,0 +1,17 @@
+"Star Wars - Racer Revenge /ID SLUS_202.68"
+//ELF CRC A7F6E4C8
+Mastercode
+902f82c0 0c0be058
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9
+2013bca0 3c023f40 //3C023F80 Zoom
+201153b4 3c023fab //3C023F80 Y-FOV
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

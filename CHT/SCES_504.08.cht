@@ -1,0 +1,18 @@
+"PaRappa the Rapper 2 /ID SCES_504.08"
+//ELF CRC 326339BF
+Mastercode
+9015f4a0 0c057cd0
+
+//Widescreen Hack by ElHecht
+
+// 16:9
+201666d4 3c013f40
+201666e0 44810000
+201666e4 4600c602
+
+// 16:10
+//201666d4 3c013f55
+//201666d8 34215555
+//201666e0 44810000
+//201666e4 4600c602
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

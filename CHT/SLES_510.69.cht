@@ -1,0 +1,20 @@
+"RTX - Red Rock /ID SLES_510.69"
+//ELF CRC E349C1D4
+
+
+Mastercode
+901914b8 0c0644d6
+
+//pgert@180128
+//http://forums.pcsx2.net/Thread-PCSX2-Widescreen-Game-Patches?pid=240786#pid240786
+
+//- Widescreen hack by pgert.
+//- Might not work with all BIOS types & configurations.
+205f1840 3f400000 // 3F800000 - X-axis - 16:9
+// 205f1840 3f555555 // - 16:10
+// 205f1840 3f638e39 // - 15:10 (MS Surface Book)
+
+// 2057beb4 3f000000 // 3F800000 - Y-Axis - alternate 16:10 hack
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

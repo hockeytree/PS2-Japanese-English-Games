@@ -1,0 +1,21 @@
+"Project Arms /ID SLPS_251.02"
+//ELF CRC 4B4A587B
+Mastercode
+9030f918 0c0c3dee
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Y-Fov
+202f70a4 3c01bf40 //3c01bf80
+
+//Zoom
+202f70d0 3c0145b4 //3c0145f0
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

@@ -1,0 +1,18 @@
+"WWII - Battle over Europe /ID SLES_536.53"
+//ELF CRC 83C2D4D1
+Mastercode
+902189d0 0c08621c
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+203595e4 08030000
+
+200c0000 46020103
+200c0004 3c013f40
+200c0008 4481f000
+200c000c 461e2102
+200c0010 080d657a
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

@@ -1,0 +1,15 @@
+"MX Rider /ID SLUS_202.34"
+
+Mastercode
+9035c5a0 0c0d7110
+
+
+//ELF CRC=FE0E9B39
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//003f013c 00008144 8e3c013c (2nd)
+202ce4f4 3c013f20 //3c013f00
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

@@ -1,0 +1,21 @@
+"Mr. Incredible /ID SLPM_657.59"
+//ELF CRC 4D5BB65A
+Mastercode
+90107ed0 0c041f5c
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Sergx12 (NTSC-J by Arpapa)
+
+//Gameplay 16:9
+//003f023c 00008244 8e3c033c
+201ff4b4 3c023f1c //3C023F00 Zoom
+201ff4e0 3c023f10 //3C023F40 Y-FOV
+
+//Hang fix by Prafull (Only needed for pcsx2, is not needed for the PS2)
+2010ec20 00000000 //40036000
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

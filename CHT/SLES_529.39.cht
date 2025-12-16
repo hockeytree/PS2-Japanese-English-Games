@@ -1,0 +1,13 @@
+"Airborne Troops - Countdown to D-Day /ID SLES_529.39"
+//ELF CRC 07D1DC03
+Mastercode
+9010d4f0 0c0434e4
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//1042023c 2d808000 00008244
+20407f9c 3c024240 //3c024210
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

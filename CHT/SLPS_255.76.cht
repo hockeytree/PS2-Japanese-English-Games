@@ -1,0 +1,14 @@
+"One Piece - Pirates Carnival /ID SLPS_255.76"
+
+Mastercode
+901106d0 0c04415c
+
+
+//Widescreen Hack by Little Giant
+
+//16:9
+201c93cc 3c023fe3 //3C023FAA vert
+201c93d0 34428e39 //3442AAAB
+
+201d8cbc 3c023f2b //3C023F00 zoom
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

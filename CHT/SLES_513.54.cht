@@ -1,0 +1,12 @@
+"Jurassic Park - Operation Genesis /ID SLES_513.54"
+//ELF CRC 960FFA6A
+Mastercode
+903b3780 0c0ecd88
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+2055a410 3ff3aaab //3eaaaaab
+2055c1f4 3fb60cd0 //3f8889a0
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

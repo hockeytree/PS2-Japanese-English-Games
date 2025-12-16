@@ -1,0 +1,14 @@
+"Pro Evolution Soccer 2013 /ID SLES_556.69"
+//ELF CRC=39C58126
+
+Mastercode
+901086d0 0c04215c
+
+
+// Widescreen pnach by El_Patas
+//Gameplay
+203ced80 3faaaaab //3F800000 (increases hor. axis)
+
+//Render fix
+20125f3c 3c053fab //3C053F80 (increases hor. render area)
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

@@ -1,0 +1,16 @@
+"Jet Ion GP /ID SLES_505.44"
+
+Mastercode
+902a6338 0c0a9876		// sceSifSendCmd (recommended)
+//~90299b04 0c0abcbf	// scePadRead
+//~90294824 0c0aac2e	// main (unreliable)
+
+/*
+ * Widescreen hack by Arapapa.
+ */
+
+Widescreen Code
+2029df94 3c013f40
+2029df98 44810000
+2029dfa0 4600c602
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

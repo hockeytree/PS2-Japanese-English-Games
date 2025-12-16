@@ -1,0 +1,13 @@
+"NHL Hitz Pro /ID SLES_518.40"
+//ELF CRC A9360C6D
+Mastercode
+90112f70 0c044b84
+
+//Widescreen Hack by ElHecht
+
+// 16:9
+203f4d14 3f100000 // 3f400000 hor fov
+
+// 16:10
+//203f4d14 3f200000 // 3f400000 hor fov
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

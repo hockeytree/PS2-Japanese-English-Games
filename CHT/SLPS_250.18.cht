@@ -1,0 +1,11 @@
+"Sidewinder Max /ID SLPS_250.18"
+//ELF CRC B4580F15
+Mastercode
+90289b20 0c0a2670
+
+//Widescreen Hack by El_Patas 
+
+//Gameplay 16:9
+20123860 3c0143c0 //3C014400 Zoom
+20102858 3c0143b4 //3C0143F0 Y-FOV
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

@@ -1,0 +1,11 @@
+"Dragon Rage /ID SLES_506.31"
+//ELF CRC 66EC6EF6
+Mastercode
+901f5420 0c07d4b0
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9 
+201c1b8c 3c013ec6 //3C013F80 Zoom
+201dbb0c 3c013fff //3C013F80 Y-FOV
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

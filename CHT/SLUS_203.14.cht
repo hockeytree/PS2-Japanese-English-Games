@@ -1,0 +1,22 @@
+"TimeSplitters 2 /ID SLUS_203.14"
+// ELF CRC = 12532F1C
+Mastercode
+90445878 0c1115c6
+
+//[Widescreen 16:9]
+
+//Widescreen hack by No.47
+20598a08 3fc71c71
+205995dc 3fc71c71
+20599664 3fc71c71
+2059ca10 3fc71c71
+
+//[No Cutscene Letterbox]
+103c7030 00000000
+103c7058 000001c0
+103c7668 00000000
+103c766c 00000000
+103c767c 00000000
+103c7680 00000000
+103c7684 00000000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

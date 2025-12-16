@@ -1,0 +1,18 @@
+"Evangelion - Jo /ID SLPS_259.32"
+//ELF CRC CBB87BF9
+Mastercode
+90323f88 0c0c8f8a
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//0000803f 000080bf 0000803f 00003543
+2041b328 3f400000 //3f800000 X-Fov
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

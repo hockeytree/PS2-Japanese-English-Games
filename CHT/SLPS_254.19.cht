@@ -1,0 +1,16 @@
+"Mobile Suit Gundam - Gundam vs Z-Gundam /ID SLPS_254.19"
+
+Mastercode
+90106af0 0c041a64
+
+
+//ELF CRC=435D8236
+
+//Widescreen hack 16:9
+
+2026cf84 3c023f40 //3c023f80
+
+20843d30 44bff400 //44fff000
+20843ef0 443fe7ff //447fe000
+208440b0 443fe7ff //447fe000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

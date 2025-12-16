@@ -1,0 +1,19 @@
+"Kengo 3 /ID SLPM_657.00"
+//ELF CRC CB56E6FB
+Mastercode
+90111990 0c04460c
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by El_Patas
+
+//Gameplay 16:9 (Memory hack)
+20868e38 3f400000 //3F800000 (Increases hor. axis)
+
+//Render fix (ELF hack)
+201383a4 3c023fab //3C023F00
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

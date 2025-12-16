@@ -1,0 +1,11 @@
+"Ghost Vibration /ID SLPS_251.31"
+
+Mastercode
+9010e550 0c0438fc
+
+
+//ELF CRC=E52F8059
+//Widescreen Hack (pnach by Arapapa)
+
+201ce730 3f400000 //3f800000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

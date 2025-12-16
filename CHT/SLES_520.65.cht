@@ -1,0 +1,12 @@
+"Flipnic - Ultimate Pinball /ID SLES_520.65"
+Mastercode
+901edc38 0c07b6b6
+//901f5ff4 0c07fdfe
+//901001f4 0c040104
+
+//comment=Widescreen hack by Arapapa
+
+//Gameplay 16:9
+201864ec 3c023f19
+201864f4 3447999a
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

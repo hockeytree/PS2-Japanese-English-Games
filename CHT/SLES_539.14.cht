@@ -1,0 +1,10 @@
+"Plan, The /ID SLES_539.14"
+//ELF CRC D65DF63F
+Mastercode
+90166790 0c05998c
+
+//Widescreen Hack by El_Patas
+
+//Gameplay 16:9
+201126b8 3c033fab //3C033F80 (Increases hor. axis)
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

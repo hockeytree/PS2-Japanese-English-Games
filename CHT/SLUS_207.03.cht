@@ -1,0 +1,19 @@
+"Air Force - Delta Strike /ID SLUS_207.03"
+
+Mastercode
+90136f78 0c04db86
+
+
+//ELF CRC=3EC45D14
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Game Play
+//0000803f efee6e3f 00000000
+204ae2ac 3f400000
+
+//Render Fix
+//0000a043 00006043 (2nd)
+204ae2a4 44200000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

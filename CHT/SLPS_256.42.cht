@@ -1,0 +1,20 @@
+"Super DragonBall Z /ID SLPS_256.42"
+//ELF CRC 197E9907
+Mastercode
+90177d50 0c05defc
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+202b0f04 3c023f10 //3c023f40
+
+
+//[No-Interlacing]
+//20104b88 ac6002d0
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

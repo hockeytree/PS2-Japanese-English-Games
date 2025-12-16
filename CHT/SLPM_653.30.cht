@@ -1,0 +1,20 @@
+"Akudaikan 2 /ID SLPM_653.30"
+//ELF CRC 6900731B
+Mastercode
+901d6dd8 0c075b1e
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Matrix hack
+201b9514 3c013f40 //00000000
+201b9518 44810000 //00000000
+201b9520 4600c602 //00000000
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

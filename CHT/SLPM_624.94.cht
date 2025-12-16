@@ -1,0 +1,18 @@
+"Simple 2000 Series Vol.55 - The Cat Fight /ID SLPM_624.94"
+//ELF CRC 561BE340
+Mastercode
+901bded8 0c06f75e
+
+
+//[Widescreen 16:9]
+
+//Widescreen hack by Arapapa
+
+// 16:9 (00000000 00000000 43ad1346 00000000)
+2018fe84 3c013f40 // 00000000 hor fov
+2018fe88 44810000 // 00000000
+2018fe90 4600c602 // 00000000
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

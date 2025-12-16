@@ -1,0 +1,22 @@
+"Barbarian /ID SLES_509.72"
+
+Mastercode
+902896b0 0c0a2554	// sceSifSendCmd (recommended)
+//~90259674 0c09f861	// scePadRead
+//~90112354 0c099a8e	// main (unreliable)
+
+/*
+ * Comments: Widescreen hack. Port
+ * and additional hacks by dieSkaarj
+ * (PAL.)
+ */
+
+Widescreen Code
+2012cd0c 3c013f40
+
+// Center HUD (Offsets the X position of menu textures)
+//~205359bc bf500000
+
+// Stretch HUD
+20535a1c 3f400000
+20535a44 3f400000//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

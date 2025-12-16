@@ -1,0 +1,16 @@
+﻿"Mega Man X Collection /ID SLUS_213.70"
+Mastercode
+9012f8b0 00832021
+
+//Unlock Mega Man Battle & Chase
+e0010001 00662e84
+00669980 00000001
+
+//All Gallery
+e0010001 00662e84
+206699c4 ffffffff
+
+//HDTVFiX (all games)
+2014497c 3c050001
+2014498c 1c070001
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

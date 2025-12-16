@@ -1,0 +1,13 @@
+"Tiger Woods PGA Tour 2001 /ID SLES_501.18"
+//ELF CRC 1D3435B2
+Mastercode
+901e1798 0c07858c
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//0000803f 0af67f3f 17d87f3f (1st)
+201e8e58 3faaaaab //3f800000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

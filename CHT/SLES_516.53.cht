@@ -1,0 +1,14 @@
+"Mace Griffin - Bounty Hunter /ID SLES_516.53"
+
+Mastercode
+9012acb8 0c04aad6		// sceSifSendCmd (recommended)
+//~90108ed0 0c0474a5	// scePad2Read
+//~90100210 0c0404ae	// main
+
+/*
+ * Widescreen hack by Some Chump.
+ */
+
+Widescreen Code
+2055c308 439991ec
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

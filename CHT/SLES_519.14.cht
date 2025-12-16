@@ -1,0 +1,25 @@
+﻿"Onimusha 3: Demon Siege /ID SLES_519.14"
+Mastercode
+9010e5f0 0c043924
+
+Widescreen 
+//val1
+20151420 3c033f19
+20151428 34639999
+
+//val2
+20151480 3c033f4c
+20151484 34439999
+
+//val3
+201515d8 3c033f19
+201515e0 34639999
+
+//rfix1
+20151650 3c02c3d6
+
+//rfix2
+20151540 3c024527
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

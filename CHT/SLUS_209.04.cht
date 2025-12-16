@@ -1,0 +1,16 @@
+"SpongeBob Squarepants - The Movie /ID SLUS_209.04"
+
+Mastercode
+90108690 0c04214c
+
+//Spongebob Squarepants Movie Game (NTSC-U) (SLUS-20904) Widescreen Hack (nemesis2000) (gamemasterplc)
+20437714 46010083 //Multiply Aspect
+20437718 e7a20028 //Store Multiplied Aspect
+2043771c 46010002 //Set Height
+20437720 0c0655bc //Jump to RWCameraSetView
+20437724 e7a0002c //Store Height (Delay Slot)
+20437728 dfbf0010 //Restore RA
+2043772c 7bb00000 //Restore S0
+20437730 03e00008 //Jump to RA
+20437734 27bd0030 //Restore Stack (Delay Slot)
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

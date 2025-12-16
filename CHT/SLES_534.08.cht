@@ -1,0 +1,16 @@
+"Fighting Angels /ID SLES_534.08"
+
+Mastercode
+901bf3d8 0c06fc9e		// sceSifSendCmd (recommended)
+//~9019a044 0c06da72	// scePadRead
+//~90100220 0c06bba6	// main (unreliable)
+
+/*
+ * Widescreen Hack by El_Patas.
+ */
+
+//Widescreen Code 
+2019135c 3c013f40
+20191360 44810000
+20191368 4600c602
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

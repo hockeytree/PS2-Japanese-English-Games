@@ -1,0 +1,17 @@
+"Drag-on Dragoon 2 - Fuuin no Kurenai /ID SLPM_659.99"
+//ELF CRC DA6D80ED
+Mastercode
+903acbb8 0c0eb296
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack (NTSC-J by Arapapa)
+
+// 16:9
+2055c898 3fe38e32 // 3FAAAAAA
+205f3f94 44550000 // 44200000
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

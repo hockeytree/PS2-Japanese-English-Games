@@ -1,0 +1,15 @@
+"Lupin III - Columbus no Isan wa Akenisomar /ID SLPS_254.30"
+
+Mastercode
+9010e230 0c043834
+
+
+//ELF CRC=B78086CD
+//Widescreen hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//803f023c 00008244 00000000
+20211b34 3c023fab//3c023f80
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

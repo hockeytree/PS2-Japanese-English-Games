@@ -1,0 +1,19 @@
+"NBA Live 06 /ID SLKA_253.15"
+//ELF CRC FC04B01D
+Mastercode
+904737e8 0c11cda2
+
+
+//[Widescreen 16:9]
+
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//X-Fov
+//003f013c 00088144 1800028e
+2049bf0c 3c013ec0 //3c013f00
+
+
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

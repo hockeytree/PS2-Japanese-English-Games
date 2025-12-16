@@ -1,0 +1,13 @@
+"James Bond 007 - Everything or Nothing /ID SLPM_654.46"
+
+Mastercode
+91f125b8 0c7c4916
+
+
+//ELF CRC=5FFFDE40
+//Widescreen Hack by nemesis2000 (NTSC-J by Arapapa)
+
+//Widescreen hack 16:9
+
+2041ab2c 3faaaaab //3f800000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

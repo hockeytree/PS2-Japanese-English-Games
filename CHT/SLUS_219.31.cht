@@ -1,0 +1,12 @@
+﻿"Toy Story 3 /ID SLUS_219.31"
+Mastercode
+905398b0 0c14e5d4
+
+/Widescreen hack 16:9
+
+//Zoom fix (Internal Widescreen)
+//aa3f033c 00188444 713d6334
+204f6ee8 3c033f80
+204f6ef0 34630000
+
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

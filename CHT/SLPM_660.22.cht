@@ -1,0 +1,14 @@
+"Kaido Touge no Densetsu /ID SLPM_660.22"
+//ELF CRC EC33CA0D
+Mastercode
+90116f10 0c045b6c
+//[Widescreen 16:9]
+
+
+//Widescreen hack by nemesis2000 (pnach by nemesis2000)
+2016323c 3c043f40 //GamePlay
+2036663c 3c033f40 //Garage
+
+//[No-Interlacing]
+//201532c4 30840000
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats

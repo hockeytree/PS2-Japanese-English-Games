@@ -1,0 +1,17 @@
+"Reign of Fire /ID SLUS_205.56"
+
+Mastercode
+9010f1c0 0c043c18
+
+
+//ELF CRC=D10945CE
+//Widescreen Hack by Arapapa
+
+//Widescreen hack 16:9
+
+//Y-Fov
+20135320 3c023fab //3c023f80
+
+//Zoom
+201352b8 3c023f24 //3c023f00
+//More Information: https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats
